@@ -1,0 +1,1796 @@
+ac_type_id,ac_type_cleaned,ac_category
+0,A-7D Corsair,Military Fighter Aircraft
+1,AAC-1 Toucan,Civilian Passenger Aircraft
+2,AEGK,General Aviation and Private Aircraft
+3,AT L98 Carvair,Cargo and Transport Aircraft
+4,ATR 42,Civilian Passenger Aircraft
+5,ATR 42-300,Civilian Passenger Aircraft
+6,ATR 42-312,Civilian Passenger Aircraft
+7,ATR 42-320,Civilian Passenger Aircraft
+8,ATR 42-500,Civilian Passenger Aircraft
+9,ATR 42-512,Civilian Passenger Aircraft
+10,ATR 72-201,Civilian Passenger Aircraft
+11,ATR 72-202,Civilian Passenger Aircraft
+12,ATR 72-212,Civilian Passenger Aircraft
+13,ATR 72-212A,Civilian Passenger Aircraft
+14,ATR 72-50,Civilian Passenger Aircraft
+15,ATR 72-500,Civilian Passenger Aircraft
+16,ATR 72-600,Civilian Passenger Aircraft
+17,Aero Commander  520,General Aviation and Private Aircraft
+18,Aero Commander 500-B,General Aviation and Private Aircraft
+19,Aero Commander 500A,General Aviation and Private Aircraft
+20,Aero Commander 680,General Aviation and Private Aircraft
+21,Aero Commander 680E,General Aviation and Private Aircraft
+22,Aero Commander 680F,General Aviation and Private Aircraft
+23,Aero Commander AC 520,General Aviation and Private Aircraft
+24,Aerocomp Comp Air 8,General Aviation and Private Aircraft
+25,Aeroflot,Civilian Passenger Aircraft
+26,Aeromarine Model 85 (flying boat),Vintage Aircraft
+27,Aerospatiale 330G Puma,Helicopters
+28,Aerospatiale 330J Puma,Helicopters
+29,Aerospatiale 350B1,Helicopters
+30,Aerospatiale AS 332L1 Super Puma,Helicopters
+31,Aerospatiale AS 332L2,Helicopters
+32,Aerospatiale AS 350,Helicopters
+33,Aerospatiale AS 350B2,Helicopters
+34,Aerospatiale AS 350B3,Helicopters
+35,Aerospatiale AS 350BA,Helicopters
+36,Aerospatiale AS 350D,Helicopters
+37,Aerospatiale AS-350B,Helicopters
+38,Aerospatiale AS350 Eurocopter helicoper,Helicopters
+39,Aerospatiale AS355-F1,Helicopters
+40,Aerospatiale SA 330 Puma,Helicopters
+41,Aerospatiale SA 330J,Helicopters
+42,Aerospatiale SA 365N-1 Dauphin II,Helicopters
+43,Agusta A109A MK II,Helicopters
+44,Airbus A300,Civilian Passenger Aircraft
+45,Airbus A300-600R,Civilian Passenger Aircraft
+46,Airbus A300-605R,Civilian Passenger Aircraft
+47,Airbus A300-622R,Civilian Passenger Aircraft
+48,Airbus A300B2-101,Civilian Passenger Aircraft
+49,Airbus A300B2-1C,Civilian Passenger Aircraft
+50,Airbus A300B2-203,Civilian Passenger Aircraft
+51,Airbus A300B4-200,Civilian Passenger Aircraft
+52,Airbus A300B4-203,Civilian Passenger Aircraft
+53,Airbus A300B4-203F,Civilian Passenger Aircraft
+54,Airbus A300B4-622R,Civilian Passenger Aircraft
+55,Airbus A300F-622R,Civilian Passenger Aircraft
+56,Airbus A310-204,Civilian Passenger Aircraft
+57,Airbus A310-304,Civilian Passenger Aircraft
+58,Airbus A310-324,Civilian Passenger Aircraft
+59,Airbus A310-324ET,Civilian Passenger Aircraft
+60,Airbus A320-111,Civilian Passenger Aircraft
+61,Airbus A320-211,Civilian Passenger Aircraft
+62,Airbus A320-212,Civilian Passenger Aircraft
+63,Airbus A320-214,Civilian Passenger Aircraft
+64,Airbus A320-216,Civilian Passenger Aircraft
+65,Airbus A320-231,Civilian Passenger Aircraft
+66,Airbus A320-232,Civilian Passenger Aircraft
+67,Airbus A320-233,Civilian Passenger Aircraft
+68,Airbus A321-111,Civilian Passenger Aircraft
+69,Airbus A321-231,Civilian Passenger Aircraft
+70,Airbus A330-202,Civilian Passenger Aircraft
+71,Airbus A330-203,Civilian Passenger Aircraft
+72,Airbus A330-243,Civilian Passenger Aircraft
+73,Airbus A330-301,Civilian Passenger Aircraft
+74,Airbus A330-321,Civilian Passenger Aircraft
+75,Airbus A340,Civilian Passenger Aircraft
+76,Airship,Airships
+77,Airspeed AS-65 Consul,Vintage Aircraft
+78,Airspeed Ambassador AS-57,Vintage Aircraft
+79,Airspeed Oxford,Vintage Aircraft
+80,Antonov 10A,Cargo and Transport Aircraft
+81,Antonov 12,Cargo and Transport Aircraft
+82,Antonov 12B,Cargo and Transport Aircraft
+83,Antonov 12BK,Cargo and Transport Aircraft
+84,Antonov 12BP,Cargo and Transport Aircraft
+85,Antonov 12MGA,Cargo and Transport Aircraft
+86,Antonov 12V,Cargo and Transport Aircraft
+87,Antonov 24,Cargo and Transport Aircraft
+88,Antonov 24B,Cargo and Transport Aircraft
+89,Antonov 26,Cargo and Transport Aircraft
+90,Antonov 26B,Cargo and Transport Aircraft
+91,Antonov 26B-100,Cargo and Transport Aircraft
+92,Antonov 28,Cargo and Transport Aircraft
+93,Antonov 2R,Cargo and Transport Aircraft
+94,Antonov 2TP,Cargo and Transport Aircraft
+95,Antonov 32,Cargo and Transport Aircraft
+96,Antonov 32B,Cargo and Transport Aircraft
+97,Antonov 74T-200,Cargo and Transport Aircraft
+98,Antonov 74TK-200,Cargo and Transport Aircraft
+99,Antonov 74TK-300,Cargo and Transport Aircraft
+100,Antonov AN-10,Cargo and Transport Aircraft
+101,Antonov AN-10A,Cargo and Transport Aircraft
+102,Antonov AN-12,Cargo and Transport Aircraft
+103,Antonov AN-124,Cargo and Transport Aircraft
+104,Antonov AN-124-100,Cargo and Transport Aircraft
+105,Antonov AN-12A,Cargo and Transport Aircraft
+106,Antonov AN-12AP,Cargo and Transport Aircraft
+107,Antonov AN-12B,Cargo and Transport Aircraft
+108,Antonov AN-12BK,Cargo and Transport Aircraft
+109,Antonov AN-12BP,Cargo and Transport Aircraft
+110,Antonov AN-12PL,Cargo and Transport Aircraft
+111,Antonov AN-12TB,Cargo and Transport Aircraft
+112,Antonov AN-12V,Cargo and Transport Aircraft
+113,Antonov AN-14,General Aviation and Private Aircraft
+114,Antonov AN-140,Cargo and Transport Aircraft
+115,Antonov AN-140-100,Cargo and Transport Aircraft
+116,Antonov AN-148-100,Civilian Passenger Aircraft
+117,Antonov AN-2,General Aviation and Private Aircraft
+118,Antonov AN-22,Cargo and Transport Aircraft
+119,Antonov AN-22A,Cargo and Transport Aircraft
+120,Antonov AN-24,Cargo and Transport Aircraft
+121,Antonov AN-24B,Cargo and Transport Aircraft
+122,Antonov AN-24N,Cargo and Transport Aircraft
+123,Antonov AN-24RV,Cargo and Transport Aircraft
+124,Antonov AN-24RV / Soviet Air Force TU-16,Cargo and Transport Aircraft
+125,Antonov AN-24V,Cargo and Transport Aircraft
+126,Antonov AN-26,Cargo and Transport Aircraft
+127,Antonov AN-26-100,Cargo and Transport Aircraft
+128,Antonov AN-26A,Cargo and Transport Aircraft
+129,Antonov AN-26B,Cargo and Transport Aircraft
+130,Antonov AN-26SH,Cargo and Transport Aircraft
+131,Antonov AN-26V,Cargo and Transport Aircraft
+132,Antonov AN-28,Cargo and Transport Aircraft
+133,Antonov AN-2R,Cargo and Transport Aircraft
+134,Antonov AN-2T,Cargo and Transport Aircraft
+135,Antonov AN-2TP,Cargo and Transport Aircraft
+136,Antonov AN-32,Cargo and Transport Aircraft
+137,Antonov AN-32A,Cargo and Transport Aircraft
+138,Antonov AN-32B,Cargo and Transport Aircraft
+139,Antonov AN-72,Cargo and Transport Aircraft
+140,Antonov AN-72-100D,Cargo and Transport Aircraft
+141,Antonov AN-8,Cargo and Transport Aircraft
+142,Antonov AN-9,Cargo and Transport Aircraft
+143,Antonov An 26B-100,Cargo and Transport Aircraft
+144,Arado V1,Specialized or Experimental Aircraft
+145,Arava 201,Cargo and Transport Aircraft
+146,Armstrong Whitworth Argosy II,Cargo and Transport Aircraft
+147,Armstrong Whitworth F-K-8,Cargo and Transport Aircraft
+148,Armstrong Withworth Atlanta,Cargo and Transport Aircraft
+149,Avia 14,General Aviation and Private Aircraft
+150,Avia 14-40,General Aviation and Private Aircraft
+151,Avia 14M-40,General Aviation and Private Aircraft
+152,Avia 14T,General Aviation and Private Aircraft
+153,Aviation Traders ATL-98 Carvair,Cargo and Transport Aircraft
+154,Avro 10,Vintage Aircraft
+155,Avro 504,Vintage Aircraft
+156,Avro 683 Lancaster,Cargo and Transport Aircraft
+157,Avro 685 York C1,Cargo and Transport Aircraft
+158,Avro 685 York I,Cargo and Transport Aircraft
+159,Avro 688,Cargo and Transport Aircraft
+160,Avro 688 Super Trader,Cargo and Transport Aircraft
+161,Avro 688 Tudor 4B,Cargo and Transport Aircraft
+162,Avro 688 Tudor I,Cargo and Transport Aircraft
+163,Avro 689 Tudor 5,Cargo and Transport Aircraft
+164,Avro 691 Lancastrian,Cargo and Transport Aircraft
+165,Avro 691 Lancastrian 1,Cargo and Transport Aircraft
+166,Avro 691 Lancastrian 3,Cargo and Transport Aircraft
+167,Avro 691 Lancastrian IV,Cargo and Transport Aircraft
+168,Avro Anson,Cargo and Transport Aircraft
+169,Avro Lancaster,Cargo and Transport Aircraft
+170,Avro Lancaster 1,Cargo and Transport Aircraft
+171,Avro Ninteen I,Vintage Aircraft
+172,Avro RJ-85,Civilian Passenger Aircraft
+173,Avro Shackleton AEW-2,Specialized or Experimental Aircraft
+174,Avro Shackleton M-2,Specialized or Experimental Aircraft
+175,Avro Shackleton MR-1,Specialized or Experimental Aircraft
+176,Avro Shackleton MR-2,Specialized or Experimental Aircraft
+177,B17C Flying Fortress,Vintage Aircraft
+178,B17G Flying Fortress,Vintage Aircraft
+179,BAC One Eleven 204AF,Civilian Passenger Aircraft
+180,BAC One-Eleven 200AB,Civilian Passenger Aircraft
+181,BAC One-Eleven 203AE,Civilian Passenger Aircraft
+182,BAC One-Eleven 402AP,Civilian Passenger Aircraft
+183,BAC One-Eleven 420EL,Civilian Passenger Aircraft
+184,BAC One-Eleven 424EU,Civilian Passenger Aircraft
+185,BAC One-Eleven 515FB,Civilian Passenger Aircraft
+186,BAC One-Eleven 516FP,Civilian Passenger Aircraft
+187,BAC One-Eleven 524FF,Civilian Passenger Aircraft
+188,BAC One-Eleven 525FT,Civilian Passenger Aircraft
+189,BAC One-Eleven 527FK,Civilian Passenger Aircraft
+190,BAC One-Eleven 528FL,Civilian Passenger Aircraft
+191,BAC One-Eleven 529FR,Civilian Passenger Aircraft
+192,BAC Super VC-10 1154,Civilian Passenger Aircraft
+193,BAC VC-10-1101,Civilian Passenger Aircraft
+194,BAe 125-700A,Civilian Passenger Aircraft
+195,BAe 125-700A Hawker,Civilian Passenger Aircraft
+196,BAe 125-700B,Civilian Passenger Aircraft
+197,BAe 125-800A,Civilian Passenger Aircraft
+198,BAe 146-100,Civilian Passenger Aircraft
+199,BAe 146-200,Civilian Passenger Aircraft
+200,BAe 146-200A,Civilian Passenger Aircraft
+201,BAe 146-300,Civilian Passenger Aircraft
+202,BAe 748 2A,Cargo and Transport Aircraft
+203,BAe ATP,Civilian Passenger Aircraft
+204,BAe Avro RJ-100,Civilian Passenger Aircraft
+205,BAe Avro RJ100,Civilian Passenger Aircraft
+206,BAe Concorde 101,Specialized or Experimental Aircraft
+207,BAe HS-748-232 Srs 2A,Cargo and Transport Aircraft
+208,BAe Jetstream 31,Civilian Passenger Aircraft
+209,BAe Jetstream 32,Civilian Passenger Aircraft
+210,BAe Jetstream 41,Civilian Passenger Aircraft
+211,BAe Nimrod MR-2,Specialized or Experimental Aircraft
+212,BAe Nimrod MR-2P,Specialized or Experimental Aircraft
+213,Bandeirante EMB-110P1,Civilian Passenger Aircraft
+214,Beech 200 Super King Air,Civilian Passenger Aircraft
+215,Beech 65-A80 Queenaire,General Aviation and Private Aircraft
+216,Beech A36,General Aviation and Private Aircraft
+217,Beech BE-1900D,Civilian Passenger Aircraft
+218,Beech BE-70,General Aviation and Private Aircraft
+219,Beech C-45H,General Aviation and Private Aircraft
+220,Beech D18S,Vintage Aircraft
+221,Beech E18S,Vintage Aircraft
+222,Beech G18S,Vintage Aircraft
+223,Beech King Air 200 Catpass,Civilian Passenger Aircraft
+224,Beech King Air B100,Civilian Passenger Aircraft
+225,Beech King Air B90,Civilian Passenger Aircraft
+226,Beech King Air F90,Civilian Passenger Aircraft
+227,Beech Queen Air A80,General Aviation and Private Aircraft
+228,Beechcraft 100 King Air,Civilian Passenger Aircraft
+229,Beechcraft 18H,Vintage Aircraft
+230,Beechcraft 1900C,Civilian Passenger Aircraft
+231,Beechcraft 1900D,Civilian Passenger Aircraft
+232,Beechcraft 35-B33 Debonair,General Aviation and Private Aircraft
+233,Beechcraft 95-B55,General Aviation and Private Aircraft
+234,Beechcraft 99,Civilian Passenger Aircraft
+235,Beechcraft 99A,Civilian Passenger Aircraft
+236,Beechcraft A100 King Air,Civilian Passenger Aircraft
+237,Beechcraft AT-11 Kansan,Specialized or Experimental Aircraft
+238,Beechcraft B-99,Civilian Passenger Aircraft
+239,Beechcraft B200 Super King Air,Civilian Passenger Aircraft
+240,Beechcraft B300 King Air,Civilian Passenger Aircraft
+241,Beechcraft B99,Civilian Passenger Aircraft
+242,Beechcraft Bonanza F35,General Aviation and Private Aircraft
+243,Beechcraft C35,General Aviation and Private Aircraft
+244,Beechcraft C45G,General Aviation and Private Aircraft
+245,Beechcraft C45H,General Aviation and Private Aircraft
+246,Beechcraft C99,Civilian Passenger Aircraft
+247,Beechcraft E18S,Vintage Aircraft
+248,Beechcraft H50,Civilian Passenger Aircraft
+249,Beechcraft SKA 200,Civilian Passenger Aircraft
+250,Bell 204B,Helicopters
+251,Bell 205A,Helicopters
+252,Bell 206B,Helicopters
+253,Bell 206B3,Helicopters
+254,Bell 206L,Helicopters
+255,Bell 206L-1,Helicopters
+256,Bell 206L-3,Helicopters
+257,Bell 206L-4,Helicopters
+258,Bell 212,Helicopters
+259,Bell 214ST,Helicopters
+260,Bell 222,Helicopters
+261,Bell 296B,Helicopters
+262,Bell 407,Helicopters
+263,Bell 412,Helicopters
+264,Bell 47J-2,Helicopters
+265,Bell BHT-206-B,Helicopters
+266,Bell UH-1B,Helicopters
+267,Bell UH-1D,Helicopters
+268,Bell UH-1H,Helicopters
+269,Bell UH-1N,Helicopters
+270,Bell UN-1N,Helicopters
+271,Black Hawk helicopter,Helicopters
+272,Blackburn B-2,Vintage Aircraft
+273,Blackburn Beverley C Mark 1,Cargo and Transport Aircraft
+274,Bleriot 155,Vintage Aircraft
+275,Bleriot Spad 27,Vintage Aircraft
+276,Bleriot Spad 33,Vintage Aircraft
+277,Bleriot Spad 46,Vintage Aircraft
+278,Bleriot Spad 56,Vintage Aircraft
+279,Bleriot Spad 66,Vintage Aircraft
+280,Bloch 220,Vintage Aircraft
+281,Boeing 17F,Vintage Aircraft
+282,Boeing 17G,Vintage Aircraft
+283,Boeing 221,Vintage Aircraft
+284,Boeing 247,Civilian Passenger Aircraft
+285,Boeing 247D,Civilian Passenger Aircraft
+286,Boeing 29,Cargo and Transport Aircraft
+287,Boeing 29A,Cargo and Transport Aircraft
+288,Boeing 29MR,Cargo and Transport Aircraft
+289,Boeing 307 Stratoliner,Civilian Passenger Aircraft
+290,Boeing 314,Civilian Passenger Aircraft
+291,Boeing 314A,Civilian Passenger Aircraft
+292,Boeing 377 Stratocruiser,Civilian Passenger Aircraft
+293,Boeing 377 Stratofreighter,Cargo and Transport Aircraft
+294,Boeing 40,Vintage Aircraft
+295,Boeing 50 Superfortress,Cargo and Transport Aircraft
+296,Boeing 52,Cargo and Transport Aircraft
+297,Boeing 52 Stratofortress,Cargo and Transport Aircraft
+298,Boeing 707-121,Civilian Passenger Aircraft
+299,Boeing 707-121B,Civilian Passenger Aircraft
+300,Boeing 707-123,Civilian Passenger Aircraft
+301,Boeing 707-123B,Civilian Passenger Aircraft
+302,Boeing 707-124,Civilian Passenger Aircraft
+303,Boeing 707-131,Civilian Passenger Aircraft
+304,Boeing 707-131B,Civilian Passenger Aircraft
+305,Boeing 707-138B,Civilian Passenger Aircraft
+306,Boeing 707-309C,Civilian Passenger Aircraft
+307,Boeing 707-31,Civilian Passenger Aircraft
+308,Boeing 707-320,Civilian Passenger Aircraft
+309,Boeing 707-320F,Civilian Passenger Aircraft
+310,Boeing 707-321B,Civilian Passenger Aircraft
+311,Boeing 707-321C,Civilian Passenger Aircraft
+312,Boeing 707-321CF,Civilian Passenger Aircraft
+313,Boeing 707-323,Civilian Passenger Aircraft
+314,Boeing 707-323C,Civilian Passenger Aircraft
+315,Boeing 707-324C,Civilian Passenger Aircraft
+316,Boeing 707-326C,Civilian Passenger Aircraft
+317,Boeing 707-327C,Civilian Passenger Aircraft
+318,Boeing 707-328,Civilian Passenger Aircraft
+319,Boeing 707-328B,Civilian Passenger Aircraft
+320,Boeing 707-328C,Civilian Passenger Aircraft
+321,Boeing 707-329C,Civilian Passenger Aircraft
+322,Boeing 707-330C,Civilian Passenger Aircraft
+323,Boeing 707-331,Civilian Passenger Aircraft
+324,Boeing 707-331B,Civilian Passenger Aircraft
+325,Boeing 707-331C,Civilian Passenger Aircraft
+326,Boeing 707-336C,Civilian Passenger Aircraft
+327,Boeing 707-338C,Civilian Passenger Aircraft
+328,Boeing 707-340C,Civilian Passenger Aircraft
+329,Boeing 707-344C,Civilian Passenger Aircraft
+330,Boeing 707-345C,Civilian Passenger Aircraft
+331,Boeing 707-349C,Civilian Passenger Aircraft
+332,Boeing 707-351C,Civilian Passenger Aircraft
+333,Boeing 707-360C,Civilian Passenger Aircraft
+334,Boeing 707-366C,Civilian Passenger Aircraft
+335,Boeing 707-373,Civilian Passenger Aircraft
+336,Boeing 707-373C,Civilian Passenger Aircraft
+337,Boeing 707-379C,Civilian Passenger Aircraft
+338,Boeing 707-3B5C,Civilian Passenger Aircraft
+339,Boeing 707-3D3C,Civilian Passenger Aircraft
+340,Boeing 707-3J9C,Civilian Passenger Aircraft
+341,Boeing 707-436,Civilian Passenger Aircraft
+342,Boeing 707-437,Civilian Passenger Aircraft
+343,Boeing 707-441,Civilian Passenger Aircraft
+344,Boeing 707-465,Civilian Passenger Aircraft
+345,Boeing 707-E-3B,Civilian Passenger Aircraft
+346,Boeing 720,Civilian Passenger Aircraft
+347,Boeing 720-030B,Civilian Passenger Aircraft
+348,Boeing 720-040B,Civilian Passenger Aircraft
+349,Boeing 720-047B,Civilian Passenger Aircraft
+350,Boeing 720-051B,Civilian Passenger Aircraft
+351,Boeing 720B-023B,Civilian Passenger Aircraft
+352,Boeing 727,Civilian Passenger Aircraft
+353,Boeing 727-100,Civilian Passenger Aircraft
+354,Boeing 727-113C,Civilian Passenger Aircraft
+355,Boeing 727-121C,Civilian Passenger Aircraft
+356,Boeing 727-134,Civilian Passenger Aircraft
+357,Boeing 727-193,Civilian Passenger Aircraft
+358,Boeing 727-200,Civilian Passenger Aircraft
+359,Boeing 727-21,Civilian Passenger Aircraft
+360,Boeing 727-212A,Civilian Passenger Aircraft
+361,Boeing 727-214,Civilian Passenger Aircraft
+362,Boeing 727-22,Civilian Passenger Aircraft
+363,Boeing 727-223,Civilian Passenger Aircraft
+364,Boeing 727-224,Civilian Passenger Aircraft
+365,Boeing 727-225,Civilian Passenger Aircraft
+366,Boeing 727-227,Civilian Passenger Aircraft
+367,Boeing 727-228,Civilian Passenger Aircraft
+368,Boeing 727-22QC,Civilian Passenger Aircraft
+369,Boeing 727-23,Civilian Passenger Aircraft
+370,Boeing 727-230,Civilian Passenger Aircraft
+371,Boeing 727-231,Civilian Passenger Aircraft
+372,Boeing 727-232,Civilian Passenger Aircraft
+373,Boeing 727-235,Civilian Passenger Aircraft
+374,Boeing 727-23F,Civilian Passenger Aircraft
+375,Boeing 727-243F,Civilian Passenger Aircraft
+376,Boeing 727-247,Civilian Passenger Aircraft
+377,Boeing 727-24C,Civilian Passenger Aircraft
+378,Boeing 727-251,Civilian Passenger Aircraft
+379,Boeing 727-256,Civilian Passenger Aircraft
+380,Boeing 727-264,Civilian Passenger Aircraft
+381,Boeing 727-27C,Civilian Passenger Aircraft
+382,Boeing 727-281,Civilian Passenger Aircraft
+383,Boeing 727-282,Civilian Passenger Aircraft
+384,Boeing 727-286,Civilian Passenger Aircraft
+385,Boeing 727-2A7,Civilian Passenger Aircraft
+386,Boeing 727-2D3,Civilian Passenger Aircraft
+387,Boeing 727-2F2,Civilian Passenger Aircraft
+388,Boeing 727-2H9A,Civilian Passenger Aircraft
+389,Boeing 727-2JOF,Civilian Passenger Aircraft
+390,Boeing 727-2L5,Civilian Passenger Aircraft
+391,Boeing 727-30,Civilian Passenger Aircraft
+392,Boeing 727-46,Civilian Passenger Aircraft
+393,Boeing 727-64,Civilian Passenger Aircraft
+394,Boeing 727-81,Civilian Passenger Aircraft
+395,Boeing 727-86,Civilian Passenger Aircraft
+396,Boeing 727-92C,Civilian Passenger Aircraft
+397,Boeing 727-95,Civilian Passenger Aircraft
+398,Boeing 737 Max 8,Civilian Passenger Aircraft
+399,Boeing 737-200,Civilian Passenger Aircraft
+400,Boeing 737-201,Civilian Passenger Aircraft
+401,Boeing 737-204,Civilian Passenger Aircraft
+402,Boeing 737-204C,Civilian Passenger Aircraft
+403,Boeing 737-209,Civilian Passenger Aircraft
+404,Boeing 737-210C,Civilian Passenger Aircraft
+405,Boeing 737-219,Civilian Passenger Aircraft
+406,Boeing 737-222,Civilian Passenger Aircraft
+407,Boeing 737-230,Civilian Passenger Aircraft
+408,Boeing 737-230A,Civilian Passenger Aircraft
+409,Boeing 737-236,Civilian Passenger Aircraft
+410,Boeing 737-241,Civilian Passenger Aircraft
+411,Boeing 737-244,Civilian Passenger Aircraft
+412,Boeing 737-247,Civilian Passenger Aircraft
+413,Boeing 737-266,Civilian Passenger Aircraft
+414,Boeing 737-270C,Civilian Passenger Aircraft
+415,Boeing 737-275,Civilian Passenger Aircraft
+416,Boeing 737-281,Civilian Passenger Aircraft
+417,Boeing 737-282,Civilian Passenger Aircraft
+418,Boeing 737-286,Civilian Passenger Aircraft
+419,Boeing 737-291,Civilian Passenger Aircraft
+420,Boeing 737-297,Civilian Passenger Aircraft
+421,Boeing 737-2A1,Civilian Passenger Aircraft
+422,Boeing 737-2A1C,Civilian Passenger Aircraft
+423,Boeing 737-2A8,Civilian Passenger Aircraft
+424,Boeing 737-2B7,Civilian Passenger Aircraft
+425,Boeing 737-2C3,Civilian Passenger Aircraft
+426,Boeing 737-2D6C,Civilian Passenger Aircraft
+427,Boeing 737-2F9,Civilian Passenger Aircraft
+428,Boeing 737-2H4,Civilian Passenger Aircraft
+429,Boeing 737-2H6,Civilian Passenger Aircraft
+430,Boeing 737-2H7C,Civilian Passenger Aircraft
+431,Boeing 737-2J8C,Civilian Passenger Aircraft
+432,Boeing 737-2K9,Civilian Passenger Aircraft
+433,Boeing 737-2L9,Civilian Passenger Aircraft
+434,Boeing 737-2M2,Civilian Passenger Aircraft
+435,Boeing 737-2P5,Civilian Passenger Aircraft
+436,Boeing 737-2P6,Civilian Passenger Aircraft
+437,Boeing 737-2R4C,Civilian Passenger Aircraft
+438,Boeing 737-2T4,Civilian Passenger Aircraft
+439,Boeing 737-2V2,Civilian Passenger Aircraft
+440,Boeing 737-300,Civilian Passenger Aircraft
+441,Boeing 737-31B,Civilian Passenger Aircraft
+442,Boeing 737-31S,Civilian Passenger Aircraft
+443,Boeing 737-3B7,Civilian Passenger Aircraft
+444,Boeing 737-3Q8,Civilian Passenger Aircraft
+445,Boeing 737-3T0,Civilian Passenger Aircraft
+446,Boeing 737-3T5,Civilian Passenger Aircraft
+447,Boeing 737-3Y0,Civilian Passenger Aircraft
+448,Boeing 737-401,Civilian Passenger Aircraft
+449,Boeing 737-497,Civilian Passenger Aircraft
+450,Boeing 737-4D7,Civilian Passenger Aircraft
+451,Boeing 737-4Q8,Civilian Passenger Aircraft
+452,Boeing 737-4Y0,Civilian Passenger Aircraft
+453,Boeing 737-500,Civilian Passenger Aircraft
+454,Boeing 737-505,Civilian Passenger Aircraft
+455,Boeing 737-524,Civilian Passenger Aircraft
+456,Boeing 737-53A,Civilian Passenger Aircraft
+457,Boeing 737-566,Civilian Passenger Aircraft
+458,Boeing 737-5L9,Civilian Passenger Aircraft
+459,Boeing 737-73V,Civilian Passenger Aircraft
+460,Boeing 737-7H4,Civilian Passenger Aircraft
+461,Boeing 737-809,Civilian Passenger Aircraft
+462,Boeing 737-86J,Civilian Passenger Aircraft
+463,Boeing 737-8AL,Civilian Passenger Aircraft
+464,Boeing 737-8AS,Civilian Passenger Aircraft
+465,Boeing 737-8BK,Civilian Passenger Aircraft
+466,Boeing 737-8EH,Civilian Passenger Aircraft
+467,Boeing 737-8F2,Civilian Passenger Aircraft
+468,Boeing 737-8GP,Civilian Passenger Aircraft
+469,Boeing 737-8HG,Civilian Passenger Aircraft
+470,Boeing 737-8KN (WL),Civilian Passenger Aircraft
+471,Boeing 737-8KV WL,Civilian Passenger Aircraft
+472,Boeing 737-MAX 8,Civilian Passenger Aircraft
+473,Boeing 737-T43,Civilian Passenger Aircraft
+474,Boeing 747,Civilian Passenger Aircraft
+475,Boeing 747-121,Civilian Passenger Aircraft
+476,Boeing 747-121A,Civilian Passenger Aircraft
+477,Boeing 747-122,Civilian Passenger Aircraft
+478,Boeing 747-130,Civilian Passenger Aircraft
+479,Boeing 747-131,Civilian Passenger Aircraft
+480,Boeing 747-131F,Civilian Passenger Aircraft
+481,Boeing 747-168B,Civilian Passenger Aircraft
+482,Boeing 747-200,Civilian Passenger Aircraft
+483,Boeing 747-209B,Civilian Passenger Aircraft
+484,Boeing 747-209BSF,Civilian Passenger Aircraft
+485,Boeing 747-230B,Civilian Passenger Aircraft
+486,Boeing 747-237B,Civilian Passenger Aircraft
+487,Boeing 747-244B,Civilian Passenger Aircraft
+488,Boeing 747-244B-SF,Civilian Passenger Aircraft
+489,Boeing 747-246F,Civilian Passenger Aircraft
+490,Boeing 747-249F,Civilian Passenger Aircraft
+491,Boeing 747-258F,Civilian Passenger Aircraft
+492,Boeing 747-283B,Civilian Passenger Aircraft
+493,Boeing 747-2B5B,Civilian Passenger Aircraft
+494,Boeing 747-2B5F,Civilian Passenger Aircraft
+495,Boeing 747-2R7F,Civilian Passenger Aircraft
+496,Boeing 747-300,Civilian Passenger Aircraft
+497,Boeing 747-412,Civilian Passenger Aircraft
+498,Boeing 747-412F,Civilian Passenger Aircraft
+499,Boeing 747-428BCF,Cargo and Transport Aircraft
+500,Boeing 747-44AF,Cargo and Transport Aircraft
+501,Boeing 747-466,Civilian Passenger Aircraft
+502,Boeing 747-48EF,Civilian Passenger Aircraft
+503,Boeing 747-SP-09,Civilian Passenger Aircraft
+504,Boeing 747-SR46,Civilian Passenger Aircraft
+505,Boeing 757-200,Civilian Passenger Aircraft
+506,Boeing 757-204,Civilian Passenger Aircraft
+507,Boeing 757-222,Civilian Passenger Aircraft
+508,Boeing 757-223,Civilian Passenger Aircraft
+509,Boeing 757-225,Civilian Passenger Aircraft
+510,Boeing 757-N23,Civilian Passenger Aircraft
+511,Boeing 767-200ER,Civilian Passenger Aircraft
+512,Boeing 767-222,Civilian Passenger Aircraft
+513,Boeing 767-223ER,Civilian Passenger Aircraft
+514,Boeing 767-233ER,Civilian Passenger Aircraft
+515,Boeing 767-260ER,Civilian Passenger Aircraft
+516,Boeing 767-366ER,Civilian Passenger Aircraft
+517,Boeing 767-375ER,Civilian Passenger Aircraft
+518,Boeing 767-3Z9ER,Civilian Passenger Aircraft
+519,Boeing 777-200,Civilian Passenger Aircraft
+520,Boeing 777-236ER,Civilian Passenger Aircraft
+521,Boeing 777-28EER,Civilian Passenger Aircraft
+522,Boeing 777-2H6ER,Civilian Passenger Aircraft
+523,Boeing 777-31H,Civilian Passenger Aircraft
+524,Boeing 95,Civilian Passenger Aircraft
+525,Boeing B-17G,Civilian Passenger Aircraft
+526,Boeing B-29,Civilian Passenger Aircraft
+527,Boeing B-747-121 / Boeing B-747-206B,Civilian Passenger Aircraft
+528,Boeing B727-200,Civilian Passenger Aircraft
+529,Boeing C-135A,Military Fighter Aircraft
+530,Boeing C-135B,Military Fighter Aircraft
+531,Boeing C-97,Cargo and Transport Aircraft
+532,Boeing C-97A,Cargo and Transport Aircraft
+533,Boeing C-97C,Cargo and Transport Aircraft
+534,Boeing CH-47,Helicopters
+535,Boeing CH-47A,Helicopters
+536,Boeing CH-47D,Helicopters
+537,Boeing CH-53D,Helicopters
+538,Boeing CH-53E,Helicopters
+539,Boeing EC-135K,Cargo and Transport Aircraft
+540,Boeing EC-135N,Cargo and Transport Aircraft
+541,Boeing KC-135,Cargo and Transport Aircraft
+542,Boeing KC-135A,Cargo and Transport Aircraft
+543,Boeing KC-135C,Cargo and Transport Aircraft
+544,Boeing KC-135E,Cargo and Transport Aircraft
+545,Boeing KC-97G,Cargo and Transport Aircraft
+546,Boeing RB-52B,Military Fighter Aircraft
+547,Boeing RC-135E,Cargo and Transport Aircraft
+548,Boeing RC-135S,Cargo and Transport Aircraft
+549,Boeing RC-135T,Cargo and Transport Aircraft
+550,Boeing TB-29A,Military Fighter Aircraft
+551,Boeing Vertol CH-2,Helicopters
+552,Boeing Vertol CH-47,Helicopters
+553,Boeing Vertol CH-47A,Helicopters
+554,Boeing Vertol CH-47C,Helicopters
+555,Boeing Vertol CH47A,Helicopters
+556,Boeing Vertol CH47B,Helicopters
+557,Boeing Vertol CH47C,Helicopters
+558,Boeing Vetrol 107 II,Helicopters
+559,Boeing XB-29,Military Fighter Aircraft
+560,Bombardier CRJ200,Civilian Passenger Aircraft
+561,Bombardier DHC-8-402 Q400,Civilian Passenger Aircraft
+562,Boulton and Paul P-71,Vintage Aircraft
+563,Breguet 14,Vintage Aircraft
+564,Breguet 280T,Cargo and Transport Aircraft
+565,Bristol 170 Freighter 21,Cargo and Transport Aircraft
+566,Bristol 170 Freighter 21E,Cargo and Transport Aircraft
+567,Bristol 170 Freighter 31,Cargo and Transport Aircraft
+568,Bristol 170 Freighter 31 Mark II,Cargo and Transport Aircraft
+569,Bristol 170 Freighter 31E,Cargo and Transport Aircraft
+570,Bristol 170 Freighter 31M,Cargo and Transport Aircraft
+571,Bristol 170 Freighter I,Cargo and Transport Aircraft
+572,Bristol 170 Freighter XI,Cargo and Transport Aircraft
+573,Bristol 175 Britannia 312,Cargo and Transport Aircraft
+574,Bristol 28 Tourer,Vintage Aircraft
+575,Bristol Britannia 102,Cargo and Transport Aircraft
+576,Bristol Britannia 175,Cargo and Transport Aircraft
+577,Bristol Britannia 312,Cargo and Transport Aircraft
+578,Bristol Britannia 314,Cargo and Transport Aircraft
+579,British Aerospace BAe Jetstream 32EP,Civilian Passenger Aircraft
+580,Britten Norman BN-2A Trislander,Civilian Passenger Aircraft
+581,Britten Norman BN-2A-20 Trislander,Civilian Passenger Aircraft
+582,Britten Norman BN-2A-21 Trislander,Civilian Passenger Aircraft
+583,Britten Norman BN-2A-26,Civilian Passenger Aircraft
+584,Britten Norman BN-2A-26 Trislander,Civilian Passenger Aircraft
+585,Britten Norman BN-2A-27 Islander,Civilian Passenger Aircraft
+586,Britten Norman BN-2A-3 Islander,Civilian Passenger Aircraft
+587,Britten Norman BN-2B Trislander,Civilian Passenger Aircraft
+588,Britten Norman BN-7A lslander,Civilian Passenger Aircraft
+589,Britten-Norman BN-2 Islander,Civilian Passenger Aircraft
+590,Britten-Norman BN-2A Islander,Civilian Passenger Aircraft
+591,Britten-Norman BN-2A-20 Islander,Civilian Passenger Aircraft
+592,Britten-Norman BN-2A-21,Civilian Passenger Aircraft
+593,Britten-Norman BN-2A-21 Islander,Civilian Passenger Aircraft
+594,Britten-Norman BN-2A-21 Trislander,Civilian Passenger Aircraft
+595,Britten-Norman BN-2A-26 Islander,Civilian Passenger Aircraft
+596,Britten-Norman BN-2A-26 Trislander,Civilian Passenger Aircraft
+597,Britten-Norman BN-2A-27 Islander,Civilian Passenger Aircraft
+598,Britten-Norman BN-2A-3 Islander,Civilian Passenger Aircraft
+599,Britten-Norman BN-2A-6,Civilian Passenger Aircraft
+600,Britten-Norman BN-2A-6 Islander,Civilian Passenger Aircraft
+601,Britten-Norman BN-2A-8 Island,Civilian Passenger Aircraft
+602,Britten-Norman BN-2A-8 Islander,Civilian Passenger Aircraft
+603,Britten-Norman BN-2A-8 Trislander,Civilian Passenger Aircraft
+604,Britten-Norman BN-2A-9 Islander,Civilian Passenger Aircraft
+605,Britten-Norman BN-2B-21 Islander,Civilian Passenger Aircraft
+606,Britten-Norman BN-2B-26 Islander,Civilian Passenger Aircraft
+607,Britten-Norman BN-2B-27 Islander,Civilian Passenger Aircraft
+608,Budd RB-1 Conestoga,Cargo and Transport Aircraft
+609,Burgess RV-6 experimental,Specialized or Experimental Aircraft
+610,C-46,Cargo and Transport Aircraft
+611,C-47,Cargo and Transport Aircraft
+612,CAMS 53,Cargo and Transport Aircraft
+613,CAMS 56,Cargo and Transport Aircraft
+614,CANT Z-506,Cargo and Transport Aircraft
+615,CASA 212-100,Cargo and Transport Aircraft
+616,CASA 212-200,Cargo and Transport Aircraft
+617,CASA 212-300,Cargo and Transport Aircraft
+618,CASA 212-A3-100,Cargo and Transport Aircraft
+619,CASA 212-CC,Cargo and Transport Aircraft
+620,CASA 212-DE-200,Cargo and Transport Aircraft
+621,CASA 212-MP-200,Cargo and Transport Aircraft
+622,CASA 212-S1-100,Cargo and Transport Aircraft
+623,CASA 235-100,Cargo and Transport Aircraft
+624,CASA 235-200,Cargo and Transport Aircraft
+625,CASA 235M-100,Cargo and Transport Aircraft
+626,CASA 352,Cargo and Transport Aircraft
+627,CASA C-212-300DF,Cargo and Transport Aircraft
+628,CASA C-295M,Cargo and Transport Aircraft
+629,CF-100 Mark 4B,Military Fighter Aircraft
+630,CMASA Wal,Cargo and Transport Aircraft
+631,Cams 53,Specialized or Experimental Aircraft
+632,Canadair C-4 Argonaut,Cargo and Transport Aircraft
+633,Canadair C-4-1 Northstar / Harvard Mark II,Cargo and Transport Aircraft
+634,Canadair CL-44,Cargo and Transport Aircraft
+635,Canadair CL-44D4-1,Cargo and Transport Aircraft
+636,Canadair CL-44D4-2,Cargo and Transport Aircraft
+637,Canadair CL-44D4-6,Cargo and Transport Aircraft
+638,Canadair CL-44J,Cargo and Transport Aircraft
+639,Canadair CL-600 CRJ-100ER,Civilian Passenger Aircraft
+640,Canadair CL-600-2B16 Challenger,Civilian Passenger Aircraft
+641,Canadair CL-601-2A12 Challenger,Civilian Passenger Aircraft
+642,Canadair CL-604,Civilian Passenger Aircraft
+643,Canadair CP-107 MK-2,Military Fighter Aircraft
+644,Canadair CRJ-100ER,Civilian Passenger Aircraft
+645,Canadair CRJ-200,Civilian Passenger Aircraft
+646,Canadair CRJ-200ER,Civilian Passenger Aircraft
+647,Canadair CRJ200LR RegionalJet,Civilian Passenger Aircraft
+648,Canadair DC-4M-2 Northstar,Cargo and Transport Aircraft
+649,Caproni Ca.48,Cargo and Transport Aircraft
+650,Caravelle 10B3,Civilian Passenger Aircraft
+651,Caravelle 10R,Civilian Passenger Aircraft
+652,Caravelle 3,Civilian Passenger Aircraft
+653,Caravelle 6N,Civilian Passenger Aircraft
+654,Caravelle 6R,Civilian Passenger Aircraft
+655,Caravelle SE-210,Civilian Passenger Aircraft
+656,Caravelle Super 10B,Civilian Passenger Aircraft
+657,Caravelle VIR,Civilian Passenger Aircraft
+658,Casa 212-AB10,Cargo and Transport Aircraft
+659,Catalina Flying Boat,Cargo and Transport Aircraft
+660,Caudron C-61,General Aviation and Private Aircraft
+661,Caudron C-630 Simoun,General Aviation and Private Aircraft
+662,Caudron C.635 Simoun,General Aviation and Private Aircraft
+663,Cessna  208B Grand Caravan,Cargo and Transport Aircraft
+664,Cessna  501 Citation,Civilian Passenger Aircraft
+665,Cessna 172H,General Aviation and Private Aircraft
+666,Cessna 177B,General Aviation and Private Aircraft
+667,Cessna 177RG,General Aviation and Private Aircraft
+668,Cessna 180H,General Aviation and Private Aircraft
+669,Cessna 185,General Aviation and Private Aircraft
+670,Cessna 185A,General Aviation and Private Aircraft
+671,Cessna 206,General Aviation and Private Aircraft
+672,Cessna 207,General Aviation and Private Aircraft
+673,Cessna 207 / Cessna 207,General Aviation and Private Aircraft
+674,Cessna 207A,General Aviation and Private Aircraft
+675,Cessna 208 Caravan,Cargo and Transport Aircraft
+676,Cessna 208 Grand Caravan,Cargo and Transport Aircraft
+677,Cessna 208B Caravan I,Cargo and Transport Aircraft
+678,Cessna 208B Grand Caravan,Cargo and Transport Aircraft
+679,Cessna 310C,General Aviation and Private Aircraft
+680,Cessna 335,General Aviation and Private Aircraft
+681,Cessna 402,Civilian Passenger Aircraft
+682,Cessna 402B,Civilian Passenger Aircraft
+683,Cessna 402C,Civilian Passenger Aircraft
+684,Cessna 404 Titan,Civilian Passenger Aircraft
+685,Cessna 404 Titan II,Civilian Passenger Aircraft
+686,Cessna 421,Civilian Passenger Aircraft
+687,Cessna 421C Golden Eagle,Civilian Passenger Aircraft
+688,Cessna 441 Conquest,Civilian Passenger Aircraft
+689,Cessna 441 Conquest II,Civilian Passenger Aircraft
+690,Cessna 500 Citation I,Civilian Passenger Aircraft
+691,Cessna 501 Citation,Civilian Passenger Aircraft
+692,Cessna 550 Citation II,Civilian Passenger Aircraft
+693,Cessna 560 Citation V,Civilian Passenger Aircraft
+694,Cessna T207A,General Aviation and Private Aircraft
+695,Chance Vought F-8E,Military Fighter Aircraft
+696,Channel Air Bridge,Civilian Passenger Aircraft
+697,Consolidated  PBY-5A Catalina,General Aviation and Private Aircraft
+698,Consolidated 32-2 Liberator I,Military Fighter Aircraft
+699,Consolidated 32-2 Liberator II,Military Fighter Aircraft
+700,Consolidated 32-3 Liberator II,Military Fighter Aircraft
+701,Consolidated B-24,Military Fighter Aircraft
+702,Consolidated B-24H,Military Fighter Aircraft
+703,Consolidated B-24J,Military Fighter Aircraft
+704,Consolidated C-87,Cargo and Transport Aircraft
+705,Consolidated Canso (amphibian),General Aviation and Private Aircraft
+706,Consolidated Catalina,Civilian Passenger Aircraft
+707,Consolidated Fleetster,General Aviation and Private Aircraft
+708,Consolidated LB-30-A Liberator,Military Fighter Aircraft
+709,Consolidated LB-30A Liberator,Military Fighter Aircraft
+710,Consolidated LB-40-A Liberator,Military Fighter Aircraft
+711,Consolidated Liberator,Military Fighter Aircraft
+712,Consolidated OA-10 Catalina,General Aviation and Private Aircraft
+713,Consolidated PB4Y-1,General Aviation and Private Aircraft
+714,Consolidated PBY Catalina,General Aviation and Private Aircraft
+715,Consolidated PBY-2 / Consolidated PBY-2,General Aviation and Private Aircraft
+716,Consolidated PBY-5 Catalina,General Aviation and Private Aircraft
+717,Consolidated PBY-5A  Catalina,General Aviation and Private Aircraft
+718,Consolidated PBY-5A Catalina,General Aviation and Private Aircraft
+719,Consolidated PBY4-2,General Aviation and Private Aircraft
+720,Convair 600,Civilian Passenger Aircraft
+721,Convair B-36,Military Fighter Aircraft
+722,Convair B-36D,Military Fighter Aircraft
+723,Convair CV-240,Civilian Passenger Aircraft
+724,Convair CV-240-12,Civilian Passenger Aircraft
+725,Convair CV-240-2,Civilian Passenger Aircraft
+726,Convair CV-240-4,Civilian Passenger Aircraft
+727,Convair CV-240-53,Civilian Passenger Aircraft
+728,Convair CV-240-7,Civilian Passenger Aircraft
+729,Convair CV-300,Civilian Passenger Aircraft
+730,Convair CV-340,Civilian Passenger Aircraft
+731,Convair CV-340-32,Civilian Passenger Aircraft
+732,Convair CV-340-58,Civilian Passenger Aircraft
+733,Convair CV-340-59,Civilian Passenger Aircraft
+734,Convair CV-340-62,Civilian Passenger Aircraft
+735,Convair CV-340-68B,Civilian Passenger Aircraft
+736,Convair CV-340-79,Civilian Passenger Aircraft
+737,Convair CV-440,Civilian Passenger Aircraft
+738,Convair CV-440-11,Civilian Passenger Aircraft
+739,Convair CV-440-12,Civilian Passenger Aircraft
+740,Convair CV-440-59,Civilian Passenger Aircraft
+741,Convair CV-440-62,Civilian Passenger Aircraft
+742,Convair CV-440-80,Civilian Passenger Aircraft
+743,Convair CV-440F,Civilian Passenger Aircraft
+744,Convair CV-580,Civilian Passenger Aircraft
+745,Convair CV-580F,Civilian Passenger Aircraft
+746,Convair CV-640,Civilian Passenger Aircraft
+747,Convair CV-880,Civilian Passenger Aircraft
+748,Convair CV-880-22-1,Civilian Passenger Aircraft
+749,Convair CV-880-22M-21,Civilian Passenger Aircraft
+750,Convair CV-880-22M-3,Civilian Passenger Aircraft
+751,Convair CV-990-30A-5,Civilian Passenger Aircraft
+752,Convair CV-990-30A-6,Civilian Passenger Aircraft
+753,Convair RB-36H,Military Fighter Aircraft
+754,Curtiss AT-32C Condor,General Aviation and Private Aircraft
+755,Curtiss C-46,Cargo and Transport Aircraft
+756,Curtiss C-46A,Cargo and Transport Aircraft
+757,Curtiss C-46A-40,Cargo and Transport Aircraft
+758,Curtiss C-46A-45,Cargo and Transport Aircraft
+759,Curtiss C-46A-50,Cargo and Transport Aircraft
+760,Curtiss C-46A-55,Cargo and Transport Aircraft
+761,Curtiss C-46A-55-CK,Cargo and Transport Aircraft
+762,Curtiss C-46A-60-CK,Cargo and Transport Aircraft
+763,Curtiss C-46A-60-CS,Cargo and Transport Aircraft
+764,Curtiss C-46C,Cargo and Transport Aircraft
+765,Curtiss C-46D,Cargo and Transport Aircraft
+766,Curtiss C-46D-10,Cargo and Transport Aircraft
+767,Curtiss C-46D-15,Cargo and Transport Aircraft
+768,Curtiss C-46D-20,Cargo and Transport Aircraft
+769,Curtiss C-46D-5,Cargo and Transport Aircraft
+770,Curtiss C-46E,Cargo and Transport Aircraft
+771,Curtiss C-46E-1-CS,Cargo and Transport Aircraft
+772,Curtiss C-46F,Cargo and Transport Aircraft
+773,Curtiss C-46T,Cargo and Transport Aircraft
+774,Curtiss C-47,Cargo and Transport Aircraft
+775,Curtiss Carrier Pigeon,Civilian Passenger Aircraft
+776,Curtiss Condor 18,Civilian Passenger Aircraft
+777,Curtiss Condor T-32,Civilian Passenger Aircraft
+778,Curtiss JN-4H,Vintage Aircraft
+779,Curtiss R-4LM,Helicopters
+780,Curtiss seaplane,Airships
+781,Curtiss-Wright C-14 Osprey,General Aviation and Private Aircraft
+782,Curtiss-Wright C-46,Cargo and Transport Aircraft
+783,Curtiss-Wright C-46A-CK,Cargo and Transport Aircraft
+784,Curtiss-Wright C-46D,Cargo and Transport Aircraft
+785,Curtiss-Wright C-46F,Cargo and Transport Aircraft
+786,Curtiss-Wright R5C-1,Cargo and Transport Aircraft
+787,Dassault Breguet Atlantique,Military Fighter Aircraft
+788,Dassault Falcon 20,Civilian Passenger Aircraft
+789,Dassault Falcon 20C,Civilian Passenger Aircraft
+790,Dassault Falcon 20E,Civilian Passenger Aircraft
+791,Dassault Falcon 50,Civilian Passenger Aircraft
+792,Dassault Falcon 900B,Civilian Passenger Aircraft
+794,De Havilland Dove,Civilian Passenger Aircraft
+795,Desoutter II,Civilian Passenger Aircraft
+796,Dewoitine D-332,Civilian Passenger Aircraft
+797,Dewoitine D-333,Civilian Passenger Aircraft
+798,Dewoitine D-338,Civilian Passenger Aircraft
+799,Dewoitine D-342,Civilian Passenger Aircraft
+800,Dirigible,Airships
+801,Dirigible FD Type,Airships
+802,Dirigible Roma (airship),Airships
+803,Dirigible ZR-1 Shenandoah (airship),Airships
+804,Domier Delphin III (flying boat),Vintage Aircraft
+805,Dormier Do-J-Iif Bos Wal flying boat,Vintage Aircraft
+806,Dornier 18 (float plane),Vintage Aircraft
+807,Dornier 228,Civilian Passenger Aircraft
+808,Dornier 228-101,Civilian Passenger Aircraft
+809,Dornier 228-201,Civilian Passenger Aircraft
+810,Dornier 228-202,Civilian Passenger Aircraft
+811,Dornier 228-212,Civilian Passenger Aircraft
+812,Dornier 288-201,Military Fighter Aircraft
+813,Dornier 328-110,Civilian Passenger Aircraft
+814,Dornier Merkur,Civilian Passenger Aircraft
+815,Dornier Wal,Vintage Aircraft
+816,Douglas A-26B Invader,Military Fighter Aircraft
+817,Douglas A-3D Skywarrior,Military Fighter Aircraft
+818,Douglas C-118A,Cargo and Transport Aircraft
+819,Douglas C-118B,Cargo and Transport Aircraft
+820,Douglas C-124-DL,Cargo and Transport Aircraft
+821,Douglas C-124A,Cargo and Transport Aircraft
+822,Douglas C-124A-DL,Cargo and Transport Aircraft
+823,Douglas C-124C,Cargo and Transport Aircraft
+824,Douglas C-133A,Cargo and Transport Aircraft
+825,Douglas C-188B,Cargo and Transport Aircraft
+826,Douglas C-39-DO  (DC-2),Cargo and Transport Aircraft
+827,Douglas C-46A,Cargo and Transport Aircraft
+828,Douglas C-47,Cargo and Transport Aircraft
+829,Douglas C-47A,Cargo and Transport Aircraft
+830,Douglas C-47B,Cargo and Transport Aircraft
+831,Douglas C-47D,Cargo and Transport Aircraft
+832,Douglas C-47DL),Cargo and Transport Aircraft
+833,Douglas C-47J,Cargo and Transport Aircraft
+834,Douglas C-48,Cargo and Transport Aircraft
+835,Douglas C-49E,Cargo and Transport Aircraft
+836,Douglas C-50A,Cargo and Transport Aircraft
+837,Douglas C-53,Cargo and Transport Aircraft
+838,Douglas C-53D,Cargo and Transport Aircraft
+839,Douglas C-54,Cargo and Transport Aircraft
+840,Douglas C-54-DO,Cargo and Transport Aircraft
+841,Douglas C-54A,Cargo and Transport Aircraft
+842,Douglas C-54B,Cargo and Transport Aircraft
+843,Douglas C-54D,Cargo and Transport Aircraft
+844,Douglas C-54E,Cargo and Transport Aircraft
+845,Douglas C-54G,Cargo and Transport Aircraft
+846,Douglas C-54P,Cargo and Transport Aircraft
+847,Douglas C-74,Cargo and Transport Aircraft
+848,Douglas D-47,General Aviation and Private Aircraft
+849,Douglas DC-2,Civilian Passenger Aircraft
+850,Douglas DC-2-112,Civilian Passenger Aircraft
+851,Douglas DC-2-115A,Civilian Passenger Aircraft
+852,Douglas DC-2-115B,Civilian Passenger Aircraft
+853,Douglas DC-2-115E,Civilian Passenger Aircraft
+854,Douglas DC-2-115H,Civilian Passenger Aircraft
+855,Douglas DC-2-115L,Civilian Passenger Aircraft
+856,Douglas DC-2-120,Civilian Passenger Aircraft
+857,Douglas DC-2-172,Civilian Passenger Aircraft
+858,Douglas DC-2-221,Civilian Passenger Aircraft
+859,Douglas DC-2-243,Civilian Passenger Aircraft
+860,Douglas DC-3,Civilian Passenger Aircraft
+861,Douglas DC-3-178,Civilian Passenger Aircraft
+862,Douglas DC-3-194H,Civilian Passenger Aircraft
+863,Douglas DC-3-201C,Civilian Passenger Aircraft
+864,Douglas DC-3-201E,Civilian Passenger Aircraft
+865,Douglas DC-3-201F,Civilian Passenger Aircraft
+866,Douglas DC-3-227B,Civilian Passenger Aircraft
+867,Douglas DC-3-3,Civilian Passenger Aircraft
+868,Douglas DC-3-313,Civilian Passenger Aircraft
+869,Douglas DC-3-313A,Civilian Passenger Aircraft
+870,Douglas DC-3-3A,Civilian Passenger Aircraft
+871,Douglas DC-3-455,Civilian Passenger Aircraft
+872,Douglas DC-3-65TP,Civilian Passenger Aircraft
+873,Douglas DC-3A,Civilian Passenger Aircraft
+874,Douglas DC-3A-178,Civilian Passenger Aircraft
+875,Douglas DC-3A-197D,Civilian Passenger Aircraft
+876,Douglas DC-3A-228D,Civilian Passenger Aircraft
+877,Douglas DC-3A-269,Civilian Passenger Aircraft
+878,Douglas DC-3C,Civilian Passenger Aircraft
+879,Douglas DC-3D,Civilian Passenger Aircraft
+880,Douglas DC-3DST,Civilian Passenger Aircraft
+881,Douglas DC-3F,Civilian Passenger Aircraft
+882,Douglas DC-4,Cargo and Transport Aircraft
+883,Douglas DC-4A,Cargo and Transport Aircraft
+884,Douglas DC-5,Cargo and Transport Aircraft
+885,Douglas DC-6,Cargo and Transport Aircraft
+886,Douglas DC-6A,Cargo and Transport Aircraft
+887,Douglas DC-6B,Cargo and Transport Aircraft
+888,Douglas DC-6BF,Cargo and Transport Aircraft
+889,Douglas DC-7,Cargo and Transport Aircraft
+890,Douglas DC-7B,Cargo and Transport Aircraft
+891,Douglas DC-7C,Cargo and Transport Aircraft
+892,Douglas DC-8,Cargo and Transport Aircraft
+893,Douglas DC-8-43F,Cargo and Transport Aircraft
+894,Douglas DC-8-52,Cargo and Transport Aircraft
+895,Douglas DC-8-54F,Cargo and Transport Aircraft
+896,Douglas DC-8-55F,Cargo and Transport Aircraft
+897,Douglas DC-9-15,Civilian Passenger Aircraft
+898,Douglas DC-9-15F,Civilian Passenger Aircraft
+899,Douglas DC-9-31,Civilian Passenger Aircraft
+900,Douglas DC-9-32,Civilian Passenger Aircraft
+901,Douglas DF-151,Cargo and Transport Aircraft
+902,Douglas DST-A-207A,Cargo and Transport Aircraft
+903,Douglas EC-54U,Military Fighter Aircraft
+904,Douglas M-3,Vintage Aircraft
+905,Douglas M-4,Vintage Aircraft
+906,Douglas MC-54M,Military Fighter Aircraft
+907,Douglas R4D-6,Cargo and Transport Aircraft
+908,Douglas R5D-2,Cargo and Transport Aircraft
+909,Douglas R5D-3,Cargo and Transport Aircraft
+910,Douglas VC-47A,Cargo and Transport Aircraft
+911,EMB 721C Sertanejo,General Aviation and Private Aircraft
+912,Embraer 110,Civilian Passenger Aircraft
+913,Embraer 110C,Civilian Passenger Aircraft
+914,Embraer 110EJ,Civilian Passenger Aircraft
+915,Embraer 110P,Civilian Passenger Aircraft
+916,Embraer 110P1,Civilian Passenger Aircraft
+917,Embraer 110P2,Civilian Passenger Aircraft
+918,Embraer 120,Civilian Passenger Aircraft
+919,Embraer 120ER,Civilian Passenger Aircraft
+920,Embraer 120RT,Civilian Passenger Aircraft
+921,Embraer 190-100LR,Civilian Passenger Aircraft
+922,Embraer 190AR,Civilian Passenger Aircraft
+923,Embraer 810C,General Aviation and Private Aircraft
+924,Embraer 820C,General Aviation and Private Aircraft
+925,Embraer C-95,Cargo and Transport Aircraft
+926,Embraer EMB-110P1 Bandeirant,Civilian Passenger Aircraft
+927,Enstrom F-28F,Helicopters
+928,Eurocopter AS332L2 Super Puma,Helicopters
+929,Eurocopter AS350B3 Ecureuil,Helicopters
+930,Eurocopter BK117C1,Helicopters
+931,Eurocopter EC 130B4,Helicopters
+932,Eurocopter EC 135T2,Helicopters
+933,Eurocopter EC 225LP,Helicopters
+934,F-4C Phantom jet fighter,Military Fighter Aircraft
+935,F-86 Sabrejet,Military Fighter Aircraft
+936,F-88 Sabre Jet,Military Fighter Aircraft
+937,FIAT G-212CP,General Aviation and Private Aircraft
+938,Fairchild,Civilian Passenger Aircraft
+939,Fairchild 51,General Aviation and Private Aircraft
+940,Fairchild 71,General Aviation and Private Aircraft
+941,Fairchild C-110F,Cargo and Transport Aircraft
+942,Fairchild C-119,Cargo and Transport Aircraft
+943,Fairchild C-119C,Cargo and Transport Aircraft
+944,Fairchild C-119G,Cargo and Transport Aircraft
+945,Fairchild C-123,Cargo and Transport Aircraft
+946,Fairchild C-123B,Cargo and Transport Aircraft
+947,Fairchild C-123C,Cargo and Transport Aircraft
+948,Fairchild C-123K,Cargo and Transport Aircraft
+949,Fairchild C-199G,Cargo and Transport Aircraft
+950,Fairchild C-82,Cargo and Transport Aircraft
+951,Fairchild C-82A,Cargo and Transport Aircraft
+952,Fairchild F-27,Civilian Passenger Aircraft
+953,Fairchild F-27A,Civilian Passenger Aircraft
+954,Fairchild F-27B,Civilian Passenger Aircraft
+955,Fairchild F-27J,Civilian Passenger Aircraft
+956,Fairchild F-27M,Civilian Passenger Aircraft
+957,Fairchild FC-2,General Aviation and Private Aircraft
+958,Fairchild FC-2W,General Aviation and Private Aircraft
+959,Fairchild FH-227B,Civilian Passenger Aircraft
+960,Fairchild FH-227C,Civilian Passenger Aircraft
+961,Fairchild FH-227D,Civilian Passenger Aircraft
+962,Fairchild FH-227E,Civilian Passenger Aircraft
+963,Fairchild FH-227H,Civilian Passenger Aircraft
+964,Fairchild FH1100,General Aviation and Private Aircraft
+965,Fairchild Pilgrim 100A,General Aviation and Private Aircraft
+966,Fairchild R4Q,Cargo and Transport Aircraft
+967,Fairchild SA227-TT,Civilian Passenger Aircraft
+968,Fairey Firefly MK1,Military Fighter Aircraft
+969,Farman F-121,Vintage Aircraft
+970,Farman F-190,Vintage Aircraft
+971,Farman F-224,Vintage Aircraft
+972,Farman F-300,Vintage Aircraft
+973,Farman F-301,Vintage Aircraft
+974,Farman F-306,Vintage Aircraft
+975,Farman F-40,Vintage Aircraft
+976,Farman F-60,Vintage Aircraft
+977,Farman F-63,Vintage Aircraft
+978,Faucett F-19,Civilian Passenger Aircraft
+979,Fletcher FU-24-954,General Aviation and Private Aircraft
+980,Focke-Wulf A-17,Military Fighter Aircraft
+981,Focke-Wulf FW 200,Civilian Passenger Aircraft
+982,Fokker F-10,Civilian Passenger Aircraft
+983,Fokker F-10A,Civilian Passenger Aircraft
+984,Fokker F-12,Civilian Passenger Aircraft
+985,Fokker F-27 Friendship 100,Civilian Passenger Aircraft
+986,Fokker F-27 Friendship 200,Civilian Passenger Aircraft
+987,Fokker F-27 Friendship 300,Civilian Passenger Aircraft
+988,Fokker F-27 Friendship 400,Civilian Passenger Aircraft
+989,Fokker F-27 Friendship 500,Civilian Passenger Aircraft
+990,Fokker F-27 Friendship 600,Civilian Passenger Aircraft
+991,Fokker F-28 Fellowship 1000,Civilian Passenger Aircraft
+992,Fokker F-28 Fellowship 2000,Civilian Passenger Aircraft
+993,Fokker F-28 Fellowship 3000,Civilian Passenger Aircraft
+994,Fokker F-28 Fellowship 4000,Civilian Passenger Aircraft
+995,Fokker F-50,Civilian Passenger Aircraft
+996,Fokker F-II,Civilian Passenger Aircraft
+997,Fokker F-III,Civilian Passenger Aircraft
+998,Fokker F-VII,Civilian Passenger Aircraft
+999,Fokker F-VIIA,Civilian Passenger Aircraft
+1000,Fokker F-VIIB,Civilian Passenger Aircraft
+1001,Fokker F-VIII,Civilian Passenger Aircraft
+1002,Fokker F-VIIb-3M,Civilian Passenger Aircraft
+1003,Fokker F-X,Civilian Passenger Aircraft
+1004,Fokker F-XII,Civilian Passenger Aircraft
+1005,Fokker F-XXII,Civilian Passenger Aircraft
+1006,Fokker Super Universal,Civilian Passenger Aircraft
+1007,Fokker Universal,Civilian Passenger Aircraft
+1008,Ford 4,Civilian Passenger Aircraft
+1009,Ford 4-AT-B,Civilian Passenger Aircraft
+1010,Ford 4-AT-E,Civilian Passenger Aircraft
+1011,Ford 5,Civilian Passenger Aircraft
+1012,Ford 5-AT,Civilian Passenger Aircraft
+1013,Ford 5-AT-B,Civilian Passenger Aircraft
+1014,Ford 5-AT-C,Civilian Passenger Aircraft
+1015,Ford 5-AT-D,Civilian Passenger Aircraft
+1016,GAF Nomad N-22,Civilian Passenger Aircraft
+1017,GAF Nomad N-22B,Civilian Passenger Aircraft
+1018,GAF Nomad N-22C,Civilian Passenger Aircraft
+1019,GAF Nomad N-24A,Civilian Passenger Aircraft
+1020,GVF PS-84,Civilian Passenger Aircraft
+1021,Gates Learjet 23,General Aviation and Private Aircraft
+1022,Gates Learjet 24B,General Aviation and Private Aircraft
+1023,Gates Learjet 25B,General Aviation and Private Aircraft
+1024,Gates Learjet 35,General Aviation and Private Aircraft
+1025,Gates Learjet 35A,General Aviation and Private Aircraft
+1026,Gates Learjet 45,General Aviation and Private Aircraft
+1027,General 102-E,General Aviation and Private Aircraft
+1028,General Aviation GA-43,General Aviation and Private Aircraft
+1029,Goodyear U.S.S. Akron (airship),Airships
+1030,Goodyear U.S.S. Macon (airship),Airships
+1031,Goodyear ZPG-3W (airship),Airships
+1032,Grazhdansky Vozdushnyi Flot PS-84,Civilian Passenger Aircraft
+1033,Grumman C-2A,Cargo and Transport Aircraft
+1034,Grumman G-159,Civilian Passenger Aircraft
+1035,Grumman G-2,Civilian Passenger Aircraft
+1036,Grumman G-21,Civilian Passenger Aircraft
+1037,Grumman G-21A,Civilian Passenger Aircraft
+1038,Grumman G-3,Civilian Passenger Aircraft
+1039,Grumman G-73,Civilian Passenger Aircraft
+1040,Grumman G-73T,Civilian Passenger Aircraft
+1041,Grumman TBM Avengers,Military Fighter Aircraft
+1042,Grummand EA-6B,Military Fighter Aircraft
+1043,Grummand G-3,Civilian Passenger Aircraft
+1044,H-21B,Helicopters
+1045,HAL-748-224,Civilian Passenger Aircraft
+1046,HESA Iran-140-100,Civilian Passenger Aircraft
+1047,HS-125-700B,Civilian Passenger Aircraft
+1048,Hamilton H-47,Civilian Passenger Aircraft
+1049,Handley Page Dart Herald 201,Civilian Passenger Aircraft
+1050,Handley Page Dart Herald 202,Civilian Passenger Aircraft
+1051,Handley Page Dart Herald 207,Civilian Passenger Aircraft
+1052,Handley Page HP-1 Hermes,Civilian Passenger Aircraft
+1053,Handley Page HP-16,Civilian Passenger Aircraft
+1054,Handley Page HP-42,Civilian Passenger Aircraft
+1055,Handley Page HP-57 Halifax,Military Fighter Aircraft
+1056,Handley Page HP-81 Hermes 4A,Civilian Passenger Aircraft
+1057,Handley Page HP-81 Hermes IV,Civilian Passenger Aircraft
+1058,Handley Page HPR-7 Herald 101,Civilian Passenger Aircraft
+1059,Handley Page HPR-7 Herald 211,Civilian Passenger Aircraft
+1060,Handley Page HPR-7 Herald 214,Civilian Passenger Aircraft
+1061,Handley Page Halifax C-8,Military Fighter Aircraft
+1062,Handley Page Hastings C Mark 1,Military Fighter Aircraft
+1063,Handley Page Hastings C-2,Military Fighter Aircraft
+1064,Handley Page Jetstream 1,Civilian Passenger Aircraft
+1065,Handley Page O/10,Military Fighter Aircraft
+1066,Handley Page W-10,Military Fighter Aircraft
+1067,Handley Page W-8,Military Fighter Aircraft
+1068,Harbin Yunshuji Y-12-II,Civilian Passenger Aircraft
+1069,Hawker 800A,Civilian Passenger Aircraft
+1070,Hawker Hunter,Military Fighter Aircraft
+1071,Hawker Siddeley HS 748-260,Civilian Passenger Aircraft
+1072,Hawker Siddeley HS-121 Trident 2E,Civilian Passenger Aircraft
+1073,Hawker Siddeley HS-125,Civilian Passenger Aircraft
+1074,Hawker Siddeley HS-748,Civilian Passenger Aircraft
+1075,Hawker Siddeley HS-748-209,Civilian Passenger Aircraft
+1076,Hawker Siddeley HS-748-215-2,Civilian Passenger Aircraft
+1077,Hawker Siddeley HS-748-230,Civilian Passenger Aircraft
+1078,Hawker Siddeley HS-748-234,Civilian Passenger Aircraft
+1079,Hawker Siddeley HS-748-235,Civilian Passenger Aircraft
+1080,Hawker Siddeley HS-748-246,Civilian Passenger Aircraft
+1081,Hawker Siddeley HS-748-2A,Civilian Passenger Aircraft
+1082,Hawker Siddeley HS-748-329,Civilian Passenger Aircraft
+1083,Hawker Siddeley HS-748-353,Civilian Passenger Aircraft
+1084,Hawker Siddeley HS-748-357,Civilian Passenger Aircraft
+1085,Hawker Siddeley HS-748-372,Civilian Passenger Aircraft
+1086,Hawker Siddeley HS-748-435,Civilian Passenger Aircraft
+1087,Hawker Siddeley HS-748-501,Civilian Passenger Aircraft
+1088,Hawker Siddeley HS-748-FAA,Civilian Passenger Aircraft
+1089,Hawker Siddeley Trident 1C,Civilian Passenger Aircraft
+1090,Hawker Siddeley Trident 2E,Civilian Passenger Aircraft
+1091,Hawker-Siddeley DH-125-1A/522,Civilian Passenger Aircraft
+1092,Heinkel 116,Civilian Passenger Aircraft
+1093,Heinkel HE-2,Civilian Passenger Aircraft
+1094,Heinkel He-111,Military Fighter Aircraft
+1095,Heinkel He-70,Civilian Passenger Aircraft
+1096,Helicopter,Helicopters
+1097,"Helicopter, Hughes 369HS",Helicopters
+1098,Hindustan Aeronautics 748-2,Civilian Passenger Aircraft
+1099,Howard 250,Civilian Passenger Aircraft
+1100,Hughes 369D,Helicopters
+1101,Hughes 369HS,Helicopters
+1102,IAI 1124 Westwind,Civilian Passenger Aircraft
+1103,IAI 1124A Westwind II,Civilian Passenger Aircraft
+1104,IAI Arava 201,Civilian Passenger Aircraft
+1105,IPTN 332C Super Puma,Helicopters
+1106,Illyushin IL-76,Cargo and Transport Aircraft
+1107,Ilushin IL-14,Civilian Passenger Aircraft
+1108,Ilushin IL-76TD,Cargo and Transport Aircraft
+1109,Iluyshin IL-86,Civilian Passenger Aircraft
+1110,Ilysushin IL-76T,Cargo and Transport Aircraft
+1111,Ilysushin IL-76TD,Cargo and Transport Aircraft
+1112,Ilyushin II-76TD,Cargo and Transport Aircraft
+1113,Ilyushin IL-12,Civilian Passenger Aircraft
+1114,Ilyushin IL-12B,Civilian Passenger Aircraft
+1115,Ilyushin IL-14,Civilian Passenger Aircraft
+1116,Ilyushin IL-14M,Civilian Passenger Aircraft
+1117,Ilyushin IL-14P,Civilian Passenger Aircraft
+1118,Ilyushin IL-14T,Civilian Passenger Aircraft
+1119,Ilyushin IL-18,Civilian Passenger Aircraft
+1120,Ilyushin IL-18A,Civilian Passenger Aircraft
+1121,Ilyushin IL-18B,Civilian Passenger Aircraft
+1122,Ilyushin IL-18D,Civilian Passenger Aircraft
+1123,Ilyushin IL-18E,Civilian Passenger Aircraft
+1124,Ilyushin IL-18L,Civilian Passenger Aircraft
+1125,Ilyushin IL-18V,Civilian Passenger Aircraft
+1126,Ilyushin IL-2,Military Fighter Aircraft
+1127,Ilyushin IL-20M,Civilian Passenger Aircraft
+1128,Ilyushin IL-38,Cargo and Transport Aircraft
+1129,Ilyushin IL-62,Civilian Passenger Aircraft
+1130,Ilyushin IL-62M,Civilian Passenger Aircraft
+1131,Ilyushin IL-62MK,Civilian Passenger Aircraft
+1132,Ilyushin IL-76,Cargo and Transport Aircraft
+1133,Ilyushin IL-76M,Cargo and Transport Aircraft
+1134,Ilyushin IL-76MD,Cargo and Transport Aircraft
+1135,Ilyushin IL-76T,Cargo and Transport Aircraft
+1136,Ilyushin IL-76TD,Cargo and Transport Aircraft
+1137,Junkers 52/3m,Cargo and Transport Aircraft
+1138,Junkers F-13,Civilian Passenger Aircraft
+1139,Junkers G-23,Civilian Passenger Aircraft
+1140,Junkers G-24,Civilian Passenger Aircraft
+1141,Junkers G-31,Civilian Passenger Aircraft
+1142,Junkers JL-6,Civilian Passenger Aircraft
+1143,Junkers JU-160,Cargo and Transport Aircraft
+1144,Junkers JU-38,Cargo and Transport Aircraft
+1145,Junkers JU-52,Cargo and Transport Aircraft
+1146,Junkers JU-52/3m,Cargo and Transport Aircraft
+1147,Junkers JU-52/3mge,Cargo and Transport Aircraft
+1148,Junkers JU-53/2m,Cargo and Transport Aircraft
+1149,Junkers JU-53/3m,Cargo and Transport Aircraft
+1150,Junkers JU-86,Cargo and Transport Aircraft
+1151,Junkers JU-90A-1,Cargo and Transport Aircraft
+1152,Junkers JU86 Z-2,Cargo and Transport Aircraft
+1153,Junkers JU90V2,Cargo and Transport Aircraft
+1154,Junkers W-33,Cargo and Transport Aircraft
+1155,Junkers W-34,Cargo and Transport Aircraft
+1156,KB-50,Cargo and Transport Aircraft
+1157,KJ-2000,Specialized or Experimental Aircraft
+1158,Kalinin K-4,Civilian Passenger Aircraft
+1159,Kalinin K-7,Civilian Passenger Aircraft
+1160,Kawasaki C-1,Cargo and Transport Aircraft
+1161,Kawasaki C-1A,Cargo and Transport Aircraft
+1162,Koolhoven FK.43,Civilian Passenger Aircraft
+1163,Kubicek BB85Z Hot Air Balloon,Airships
+1164,LET  410M Turbojet,Civilian Passenger Aircraft
+1165,LVG C VI,Civilian Passenger Aircraft
+1166,Lasco Lascowl,Civilian Passenger Aircraft
+1167,Latecoere 23,Civilian Passenger Aircraft
+1168,Latecoere 25,Civilian Passenger Aircraft
+1169,Latecoere 26,Civilian Passenger Aircraft
+1170,Latecoere 28,Civilian Passenger Aircraft
+1171,Latecoere 300,Civilian Passenger Aircraft
+1172,Latecoere 301,Civilian Passenger Aircraft
+1173,Latecoere 32,Civilian Passenger Aircraft
+1174,Latecoere 631,Civilian Passenger Aircraft
+1175,Learjet 23,Civilian Passenger Aircraft
+1176,Learjet 23A,Civilian Passenger Aircraft
+1177,Learjet 24,Civilian Passenger Aircraft
+1178,Learjet 24A,Civilian Passenger Aircraft
+1179,Learjet 24D,Civilian Passenger Aircraft
+1180,Learjet 25,Civilian Passenger Aircraft
+1181,Learjet 25B,Civilian Passenger Aircraft
+1182,Learjet 25D,Civilian Passenger Aircraft
+1183,Learjet 35A,Civilian Passenger Aircraft
+1184,Learjet 55,Civilian Passenger Aircraft
+1185,Learjet 60,Civilian Passenger Aircraft
+1186,Let Aero 45S,Civilian Passenger Aircraft
+1187,Let L-401UVP,Cargo and Transport Aircraft
+1188,Let L-410,Cargo and Transport Aircraft
+1189,Let L-410A,Cargo and Transport Aircraft
+1190,Let L-410M,Cargo and Transport Aircraft
+1192,Let L-410MU,Cargo and Transport Aircraft
+1193,Let L-410UVP,Cargo and Transport Aircraft
+1194,Let L-410UVP-E,Cargo and Transport Aircraft
+1195,Let L-420UVP-E,Cargo and Transport Aircraft
+1196,Liore et Olivier 190,Vintage Aircraft
+1197,Liore et Olivier H-246 Air Boat,Vintage Aircraft
+1198,Liore-et-Olivier 213,Vintage Aircraft
+1199,Lioré-et-Olivier H-13,Vintage Aircraft
+1200,Lioré-et-Olivier H-242,Vintage Aircraft
+1201,Lioré-et-Olivier LeO H-13,Vintage Aircraft
+1202,Lisunov LI-2,Cargo and Transport Aircraft
+1203,Lisunov LI-2P,Cargo and Transport Aircraft
+1204,Lockheed 10 Electra,Vintage Aircraft
+1205,Lockheed 049 Constellation,Civilian Passenger Aircraft
+1206,Lockheed 049-46 Constellation,Civilian Passenger Aircraft
+1207,Lockheed 049-46-21 Constellation,Civilian Passenger Aircraft
+1208,Lockheed 049-46-25 Constellation,Civilian Passenger Aircraft
+1209,Lockheed 049-46-26 Constellation,Civilian Passenger Aircraft
+1211,Lockheed 1011-200 TriStar,Civilian Passenger Aircraft
+1212,Lockheed 1049C Super Constellation,Civilian Passenger Aircraft
+1213,Lockheed 1049C-55 Super Constellation,Civilian Passenger Aircraft
+1214,Lockheed 1049E Super Constellation,Civilian Passenger Aircraft
+1215,Lockheed 1049E-55 Super Constellation,Civilian Passenger Aircraft
+1216,Lockheed 1049G Super Constellation,Civilian Passenger Aircraft
+1217,Lockheed 1049G-55 Super Constellation,Civilian Passenger Aircraft
+1218,Lockheed 1049H Super Constellation,Civilian Passenger Aircraft
+1219,Lockheed 1049H-82 Super Constellation,Civilian Passenger Aircraft
+1220,Lockheed 10A Electra,Vintage Aircraft
+1221,Lockheed 10B Electra,Vintage Aircraft
+1222,Lockheed 10C Electra,Vintage Aircraft
+1223,Lockheed 10E Electra,Civilian Passenger Aircraft
+1224,Lockheed 1329 Jetstar 8,Civilian Passenger Aircraft
+1225,Lockheed 1339,Civilian Passenger Aircraft
+1226,Lockheed 14 Electra,Vintage Aircraft
+1227,Lockheed 14-H Super Electra,Vintage Aircraft
+1228,Lockheed 14-H2 Super Electra,Vintage Aircraft
+1229,Lockheed 14-WF62 Super Electra,Vintage Aircraft
+1230,Lockheed 14H Super Electra,Vintage Aircraft
+1231,Lockheed 1649A Starliner,Civilian Passenger Aircraft
+1232,Lockheed 18 Lodestar,Vintage Aircraft
+1233,Lockheed 18-08 Lodestar,Vintage Aircraft
+1234,Lockheed 18-56 Loadstar,Vintage Aircraft
+1235,Lockheed 18-56 LodeStar,Vintage Aircraft
+1236,Lockheed 18-56 Lodestar,Vintage Aircraft
+1237,Lockheed 188A Electra,Civilian Passenger Aircraft
+1238,Lockheed 188AF Electra,Civilian Passenger Aircraft
+1239,Lockheed 188C  Electra,Civilian Passenger Aircraft
+1240,Lockheed 188C Electra,Civilian Passenger Aircraft
+1241,Lockheed 188CF Electra,Civilian Passenger Aircraft
+1242,Lockheed 382B Hercules,Cargo and Transport Aircraft
+1243,Lockheed 414 Hudson,Civilian Passenger Aircraft
+1244,Lockheed 5 Vega,Vintage Aircraft
+1245,Lockheed 649 Constellation,Civilian Passenger Aircraft
+1246,Lockheed 749,Civilian Passenger Aircraft
+1247,Lockheed 749 Constellation,Civilian Passenger Aircraft
+1248,Lockheed 749-79-33 Constellation,Civilian Passenger Aircraft
+1249,Lockheed 749-79-34 Constellation,Civilian Passenger Aircraft
+1250,Lockheed 749A Constellation,Civilian Passenger Aircraft
+1251,Lockheed 749A-79 Constellation,Civilian Passenger Aircraft
+1252,Lockheed 749A-79-32 Constellation,Civilian Passenger Aircraft
+1253,Lockheed 749A-79-33 Constellation,Civilian Passenger Aircraft
+1254,Lockheed 749C-79-12 Constellation,Civilian Passenger Aircraft
+1255,Lockheed 9 Orion,Vintage Aircraft
+1256,Lockheed C-121C Super Constellation,Civilian Passenger Aircraft
+1257,Lockheed C-130,Cargo and Transport Aircraft
+1258,Lockheed C-130A,Cargo and Transport Aircraft
+1259,Lockheed C-130B,Cargo and Transport Aircraft
+1260,Lockheed C-130D,Cargo and Transport Aircraft
+1261,Lockheed C-130E,Cargo and Transport Aircraft
+1262,Lockheed C-130H,Cargo and Transport Aircraft
+1263,Lockheed C-130J,Cargo and Transport Aircraft
+1264,Lockheed C-130K,Cargo and Transport Aircraft
+1265,Lockheed C-141A,Cargo and Transport Aircraft
+1266,Lockheed C-141B,Cargo and Transport Aircraft
+1267,Lockheed C-28,Cargo and Transport Aircraft
+1268,Lockheed C-56B Lodestar,Cargo and Transport Aircraft
+1269,Lockheed C-5A,Cargo and Transport Aircraft
+1270,Lockheed C-5A Galaxy,Cargo and Transport Aircraft
+1271,Lockheed C-60 Lodestar,Cargo and Transport Aircraft
+1272,Lockheed C-69 Constellation,Cargo and Transport Aircraft
+1273,Lockheed C121J,Cargo and Transport Aircraft
+1274,Lockheed EC-121H,Cargo and Transport Aircraft
+1275,Lockheed EC-121M,Cargo and Transport Aircraft
+1276,Lockheed EC-121P,Cargo and Transport Aircraft
+1277,Lockheed EC-130E,Cargo and Transport Aircraft
+1278,Lockheed EC-130Q,Cargo and Transport Aircraft
+1279,Lockheed HC-130H,Cargo and Transport Aircraft
+1280,Lockheed HC-130P,Cargo and Transport Aircraft
+1281,Lockheed Hercules KC-130R,Cargo and Transport Aircraft
+1282,Lockheed Hercules MC-130H,Cargo and Transport Aircraft
+1283,Lockheed Hudson,Cargo and Transport Aircraft
+1284,Lockheed Hudson A16-97,Cargo and Transport Aircraft
+1285,Lockheed Hudson IIIA,Cargo and Transport Aircraft
+1286,Lockheed Hudson VI,Cargo and Transport Aircraft
+1287,Lockheed KC-130F,Cargo and Transport Aircraft
+1288,Lockheed KC-130T Hercules,Cargo and Transport Aircraft
+1289,Lockheed L- 749A Constellation,Civilian Passenger Aircraft
+1290,Lockheed L-100,Cargo and Transport Aircraft
+1291,Lockheed L-100-20,Cargo and Transport Aircraft
+1292,Lockheed L-100-30,Cargo and Transport Aircraft
+1293,Lockheed L-1011,Civilian Passenger Aircraft
+1294,Lockheed L-1011 TriStar 1,Civilian Passenger Aircraft
+1295,Lockheed L-1011-1 TriStar,Civilian Passenger Aircraft
+1296,Lockheed L-1011-100,Civilian Passenger Aircraft
+1297,Lockheed L-1011-200,Civilian Passenger Aircraft
+1298,Lockheed L188A Electra,Civilian Passenger Aircraft
+1299,Lockheed MC-130E-Y,Cargo and Transport Aircraft
+1300,Lockheed MC-130H Hercules,Cargo and Transport Aircraft
+1301,Lockheed Martin L-100-10,Cargo and Transport Aircraft
+1302,Lockheed Martin L-100-30 Hercules,Cargo and Transport Aircraft
+1303,Lockheed Orion,Civilian Passenger Aircraft
+1304,Lockheed Orion 9,Civilian Passenger Aircraft
+1305,Lockheed Orion 9D,Civilian Passenger Aircraft
+1306,Lockheed Orion 9E Explorer float plane,Civilian Passenger Aircraft
+1307,Lockheed P-2E Neptune,Cargo and Transport Aircraft
+1308,Lockheed P-3A,Military Fighter Aircraft
+1309,Lockheed P-3A Orion,Cargo and Transport Aircraft
+1310,Lockheed P-3B Orion,Cargo and Transport Aircraft
+1311,Lockheed P-3C / Convair CV-990-30A-5,Cargo and Transport Aircraft
+1312,Lockheed P-3C / Lockheed P-3C,Cargo and Transport Aircraft
+1313,Lockheed P2V-7,Cargo and Transport Aircraft
+1314,Lockheed R7V-1,Cargo and Transport Aircraft
+1315,Lockheed Super Constellation,Civilian Passenger Aircraft
+1316,Lockheed Vega,Civilian Passenger Aircraft
+1317,Lockheed Vega 2,Civilian Passenger Aircraft
+1318,Lockheed Vega 5,Civilian Passenger Aircraft
+1319,Lockheed Vega 5B,Civilian Passenger Aircraft
+1320,Lockheed Vega 5C,Civilian Passenger Aircraft
+1321,Lockheed WV-2,Cargo and Transport Aircraft
+1322,Lockheed WV-2 Super Constellation,Cargo and Transport Aircraft
+1323,Loening C-2C,Cargo and Transport Aircraft
+1324,Loening C-W Air Yacht,Civilian Passenger Aircraft
+1325,M28 Skytruck,Cargo and Transport Aircraft
+1326,MD DC-8-11 / Lockheed 1049 S Const,Cargo and Transport Aircraft
+1327,MD Douglas DC-9-31/Piper Cherokee PA-28,Civilian Passenger Aircraft
+1328,MD Douglas DC-9-32/Convair CV-990A,Civilian Passenger Aircraft
+1329,MI 172 V5 helicopter,Helicopters
+1330,Macchi C-94,Cargo and Transport Aircraft
+1331,Macchi C.100,Civilian Passenger Aircraft
+1332,Martin 202,Civilian Passenger Aircraft
+1333,Martin 202A / DC-3,Civilian Passenger Aircraft
+1334,Martin 404,Civilian Passenger Aircraft
+1335,Martin M-130 (flying boat),Vintage Aircraft
+1336,Martin Mariner,Cargo and Transport Aircraft
+1337,Martin PBM Mariner,Cargo and Transport Aircraft
+1338,Martin PBM-3S,Cargo and Transport Aircraft
+1339,Mc Donnell Dougals DC-9,Civilian Passenger Aircraft
+1340,Mc Donnell Douglas 369FF Rotocraft,Helicopters
+1341,Mc Donnell Douglas MD-81,Civilian Passenger Aircraft
+1342,Mc Donnell Douglas MD-83,Civilian Passenger Aircraft
+1343,McDonnel F-4E Phantom II,Military Fighter Aircraft
+1344,McDonnell DC-9-32,Civilian Passenger Aircraft
+1345,McDonnell Douglas 369D,Helicopters
+1346,McDonnell Douglas C-17A Globemaster III,Cargo and Transport Aircraft
+1347,McDonnell Douglas DC-10-10,Civilian Passenger Aircraft
+1348,McDonnell Douglas DC-10-30,Civilian Passenger Aircraft
+1349,McDonnell Douglas DC-10-30CF,Civilian Passenger Aircraft
+1350,McDonnell Douglas DC-8,Civilian Passenger Aircraft
+1351,McDonnell Douglas DC-8-12,Civilian Passenger Aircraft
+1352,McDonnell Douglas DC-8-21,Civilian Passenger Aircraft
+1353,McDonnell Douglas DC-8-33,Civilian Passenger Aircraft
+1354,McDonnell Douglas DC-8-43,Civilian Passenger Aircraft
+1355,McDonnell Douglas DC-8-51,Civilian Passenger Aircraft
+1356,McDonnell Douglas DC-8-52,Civilian Passenger Aircraft
+1357,McDonnell Douglas DC-8-53,Civilian Passenger Aircraft
+1358,McDonnell Douglas DC-8-54F37,Civilian Passenger Aircraft
+1359,McDonnell Douglas DC-8-55F,Civilian Passenger Aircraft
+1360,McDonnell Douglas DC-8-61,Civilian Passenger Aircraft
+1361,McDonnell Douglas DC-8-61F,Civilian Passenger Aircraft
+1362,McDonnell Douglas DC-8-62,Civilian Passenger Aircraft
+1363,McDonnell Douglas DC-8-62H,Civilian Passenger Aircraft
+1364,McDonnell Douglas DC-8-63,Civilian Passenger Aircraft
+1365,McDonnell Douglas DC-8-63AF,Civilian Passenger Aircraft
+1366,McDonnell Douglas DC-8-63CF,Civilian Passenger Aircraft
+1367,McDonnell Douglas DC-8-63F,Civilian Passenger Aircraft
+1368,McDonnell Douglas DC-8-63PF,Civilian Passenger Aircraft
+1369,McDonnell Douglas DC-8-71F,Civilian Passenger Aircraft
+1370,McDonnell Douglas DC-8F-54F,Civilian Passenger Aircraft
+1371,McDonnell Douglas DC-8F-55,Civilian Passenger Aircraft
+1372,McDonnell Douglas DC-9,Civilian Passenger Aircraft
+1373,McDonnell Douglas DC-9-14,Civilian Passenger Aircraft
+1374,McDonnell Douglas DC-9-15,Civilian Passenger Aircraft
+1375,McDonnell Douglas DC-9-15RC,Civilian Passenger Aircraft
+1376,McDonnell Douglas DC-9-30,Civilian Passenger Aircraft
+1377,McDonnell Douglas DC-9-31,Civilian Passenger Aircraft
+1378,McDonnell Douglas DC-9-32,Civilian Passenger Aircraft
+1379,McDonnell Douglas DC-9-33CF,Civilian Passenger Aircraft
+1380,McDonnell Douglas DC-9-33RC,Civilian Passenger Aircraft
+1381,McDonnell Douglas DC-9-51,Civilian Passenger Aircraft
+1382,McDonnell Douglas DC-9-82,Civilian Passenger Aircraft
+1383,McDonnell Douglas MD-11,Civilian Passenger Aircraft
+1384,McDonnell Douglas MD-11F,Civilian Passenger Aircraft
+1385,McDonnell Douglas MD-81,Civilian Passenger Aircraft
+1386,McDonnell Douglas MD-82,Civilian Passenger Aircraft
+1387,McDonnell Douglas MD-83,Civilian Passenger Aircraft
+1388,McDonnell Douglas MD-88,Civilian Passenger Aircraft
+1389,McDonnell Douglas MD-90-30,Civilian Passenger Aircraft
+1390,Messerschmitt M-20,Vintage Aircraft
+1391,Mil Mi 17V-5,Helicopters
+1392,Mil Mi 8,Helicopters
+1393,Mil Mi-15 UTI,Helicopters
+1394,Mil Mi-17,Helicopters
+1395,Mil Mi-171,Helicopters
+1396,Mil Mi-172,Helicopters
+1397,Mil Mi-18,Helicopters
+1398,Mil Mi-23,Helicopters
+1399,Mil Mi-26,Helicopters
+1400,Mil Mi-35,Helicopters
+1401,Mil Mi-4,Helicopters
+1402,Mil Mi-6,Helicopters
+1403,Mil Mi-8,Helicopters
+1404,Mil Mi-8 helicopter,Helicopters
+1405,Mil Mi-8MTV,Helicopters
+1406,Mil Mi-8T,Helicopters
+1407,Mil- Mi-17B-5,Helicopters
+1408,Military - U.S. Air Force,Military Fighter Aircraft
+1409,Mitsubishi MC-20,Civilian Passenger Aircraft
+1410,Mitsubishi MU-2B,General Aviation and Private Aircraft
+1411,Mitsubishi MU-2B-35,General Aviation and Private Aircraft
+1412,Mitsubishi MU-2B-60,General Aviation and Private Aircraft
+1413,NAMC YS-11A-202,Civilian Passenger Aircraft
+1414,NAMC YS-11A-211,Civilian Passenger Aircraft
+1415,NAMC YS-11A-219,Civilian Passenger Aircraft
+1416,NAMC YS-11A-227,Civilian Passenger Aircraft
+1417,NAMC YS-11A-300F,Civilian Passenger Aircraft
+1418,NAMC YS-11A-500,Civilian Passenger Aircraft
+1419,NAMC-YS-11-111,Civilian Passenger Aircraft
+1420,Nakajima A-T2,Military Fighter Aircraft
+1421,Noorduyn Norseman,Civilian Passenger Aircraft
+1422,Nord 2501 Noratlas,Cargo and Transport Aircraft
+1423,Nord 262,Civilian Passenger Aircraft
+1424,Nord 262A-33,Civilian Passenger Aircraft
+1425,Nord 262A-34,Civilian Passenger Aircraft
+1426,Nord 262A-44,Civilian Passenger Aircraft
+1427,Nord 262C-66,Civilian Passenger Aircraft
+1428,Nord 262E,Civilian Passenger Aircraft
+1429,North American B-25D bomber,Military Fighter Aircraft
+1430,North American CT-39A Sabreline,Civilian Passenger Aircraft
+1431,North American F-100D-25NA,Military Fighter Aircraft
+1432,North American P-51D-15-NA Mustang,Military Fighter Aircraft
+1433,Northrop Alpha 3,Civilian Passenger Aircraft
+1434,Northrop Delta,Civilian Passenger Aircraft
+1435,Northrop F-5A,Military Fighter Aircraft
+1436,OFM F-VIIb/3m,Civilian Passenger Aircraft
+1437,PA-34-200 Seneca I,General Aviation and Private Aircraft
+1438,PAC 750XL,General Aviation and Private Aircraft
+1439,PZL-Mielec AN-2R,Civilian Passenger Aircraft
+1440,PZL-Mielec M28,Cargo and Transport Aircraft
+1441,Pacific Aerospace,General Aviation and Private Aircraft
+1442,Piaggio PD-808,Civilian Passenger Aircraft
+1443,Pilatus Britten-Norman BN-2A-21 Islander,General Aviation and Private Aircraft
+1444,Pilatus Britten-Norman BN-2A-27 Islander,General Aviation and Private Aircraft
+1445,Pilatus Britten-Norman BN-2B-26 Islander,General Aviation and Private Aircraft
+1446,Pilatus Britten-Norman BN-2B-27 Islander,General Aviation and Private Aircraft
+1447,Pilatus PC-12/45,General Aviation and Private Aircraft
+1448,Pilatus PC-12/47,General Aviation and Private Aircraft
+1449,Pilatus PC-6 Turbo Porter,General Aviation and Private Aircraft
+1450,Pilatus PC-6/B2-H2 Turbo-Porter,General Aviation and Private Aircraft
+1451,Pilatus PC6CH2,General Aviation and Private Aircraft
+1452,Pilatus Pc-6C,General Aviation and Private Aircraft
+1453,Pilgrim 100B,Civilian Passenger Aircraft
+1454,Piper Aerostar 601 / Bell 412SP,General Aviation and Private Aircraft
+1455,Piper Navajo PA-31/ Piper Seminole PA-44,General Aviation and Private Aircraft
+1456,Piper PA-23,General Aviation and Private Aircraft
+1457,Piper PA-23-250 Aztec,General Aviation and Private Aircraft
+1458,Piper PA-24-250 Comanche,General Aviation and Private Aircraft
+1459,Piper PA-28-180,General Aviation and Private Aircraft
+1460,Piper PA-31,General Aviation and Private Aircraft
+1461,Piper PA-31-310 Navajo,General Aviation and Private Aircraft
+1462,Piper PA-31-325 Navajo,General Aviation and Private Aircraft
+1463,Piper PA-31-350,General Aviation and Private Aircraft
+1464,Piper PA-32,General Aviation and Private Aircraft
+1465,Piper PA-32-R301 Saratoga II HP,General Aviation and Private Aircraft
+1466,Piper PA-42 Cheyenne,General Aviation and Private Aircraft
+1467,Piper PA31-310,General Aviation and Private Aircraft
+1468,Pitcairn PA-6,General Aviation and Private Aircraft
+1469,Potez 29,Civilian Passenger Aircraft
+1470,Potez 621,Civilian Passenger Aircraft
+1471,Potez IX,Civilian Passenger Aircraft
+1472,R4D-5,Cargo and Transport Aircraft
+1473,Reims Aviation 406,General Aviation and Private Aircraft
+1474,Robertson R44 helicopter,Helicopters
+1475,Rochrbach Roland,Vintage Aircraft
+1476,Rockwell 500S Shrike Commander,General Aviation and Private Aircraft
+1477,Rockwell CT-39A Sabreliner,General Aviation and Private Aircraft
+1478,Rockwell Gulfstream Jetprop 840,General Aviation and Private Aircraft
+1479,Rockwell International 690B,General Aviation and Private Aircraft
+1480,Rockwell Sabreliner 60,General Aviation and Private Aircraft
+1481,Rockwell Sabreliner 65,General Aviation and Private Aircraft
+1482,Rohrbach Roland,Vintage Aircraft
+1483,Royal Airship Works R-101,Airships
+1484,Royal Airship Works ZR-2 (airship),Airships
+1485,Rutan Long EZ (experimental aircraft),Specialized or Experimental Aircraft
+1486,Ryan M-1,Vintage Aircraft
+1487,SNCASE Languedoc,Civilian Passenger Aircraft
+1488,SNCASE SE.2010 Armagnac,Civilian Passenger Aircraft
+1489,SNIAS SA330J,Helicopters
+1490,SPCA Meteore 63,Civilian Passenger Aircraft
+1491,Saab 340A,Civilian Passenger Aircraft
+1492,Saab 340B,Civilian Passenger Aircraft
+1493,Saab Scandia,Civilian Passenger Aircraft
+1494,Saab Scandia 90A-1,Civilian Passenger Aircraft
+1495,Sabca F-VII,Civilian Passenger Aircraft
+1496,Sabca S-73,Civilian Passenger Aircraft
+1497,Salmson 2-A-2,Civilian Passenger Aircraft
+1498,Saro A-19 Cloud,Civilian Passenger Aircraft
+1499,Savbia-Marchetti  S-73P,Civilian Passenger Aircraft
+1500,Savoia Marchetti S-66,Civilian Passenger Aircraft
+1501,Savoia Marchetti S55,Civilian Passenger Aircraft
+1502,Savoia Marchetti SM-73,Civilian Passenger Aircraft
+1503,Savoia Marchetti SM-95,Civilian Passenger Aircraft
+1504,Savoia-Marchetti S-66,Civilian Passenger Aircraft
+1505,Savoia-Marchetti SM-73,Civilian Passenger Aircraft
+1506,Savoia-Marchetti SM-75,Civilian Passenger Aircraft
+1507,Savoia-Marchetti SM-83,Civilian Passenger Aircraft
+1508,Savoia-Marchetti SM-95,Civilian Passenger Aircraft
+1509,Schutte-Lanz S-L-10 (airship),Airships
+1510,Schutte-Lanz S-L-9 (airship),Airships
+1511,Sepecat Jaguar A,Military Fighter Aircraft
+1512,Shaanxi Y-8D,Cargo and Transport Aircraft
+1513,Shaanxi Y-8F-200W,Cargo and Transport Aircraft
+1514,Shaanxi Y-8GX-3,Cargo and Transport Aircraft
+1515,Shaanxi Yunshuji Y-8,Cargo and Transport Aircraft
+1516,Shin Meiwa PS-1,Cargo and Transport Aircraft
+1517,Short  S-29 Stirling V,Civilian Passenger Aircraft
+1518,Short 300-200,Civilian Passenger Aircraft
+1519,Short 330-200,Civilian Passenger Aircraft
+1520,Short 360,Civilian Passenger Aircraft
+1521,Short 360-100,Civilian Passenger Aircraft
+1522,Short 360-300,Civilian Passenger Aircraft
+1523,Short Calcutta (flying boat),Vintage Aircraft
+1524,Short Empire Flying Boat,Vintage Aircraft
+1525,Short Empire flying boat,Vintage Aircraft
+1526,Short S-17 Kent,Vintage Aircraft
+1527,Short S-23,Vintage Aircraft
+1528,Short S-25 Sunderland 3 (flying boat),Vintage Aircraft
+1529,Short S-26 (flying boat),Vintage Aircraft
+1530,Short S-30 (flying boat),Vintage Aircraft
+1531,Short S-8 Calcutta flying boat,Vintage Aircraft
+1532,Short SC-7 Skyvan,Cargo and Transport Aircraft
+1533,Short SC-7 Skyvan 3-100,Cargo and Transport Aircraft
+1534,Short SC-7 Skyvan 3-200,Cargo and Transport Aircraft
+1535,Short SC-7 Skyvan 3-300,Cargo and Transport Aircraft
+1536,Short SC-7 Skyvan 3A-200,Cargo and Transport Aircraft
+1537,Short SC-7 Skyvan 3M Variant 100,Cargo and Transport Aircraft
+1538,Short Sandringham (flying boat),Vintage Aircraft
+1539,Short Sandringham 2 (flying boat),Vintage Aircraft
+1540,Short Sandringham 5 (flying boat),Vintage Aircraft
+1541,Short Sandringham 6 (flying boat),Vintage Aircraft
+1542,Short Solent 3 (flying boat),Vintage Aircraft
+1543,Short Stirling,Military Bomber Aircraft
+1544,Short Stirling IV,Military Bomber Aircraft
+1545,Short Sunderland,Vintage Aircraft
+1546,Short Sunderland 3,Vintage Aircraft
+1547,Short Sunderland 9 (flying boat),Vintage Aircraft
+1548,Siebel Si-204,Civilian Passenger Aircraft
+1549,Sikorsky S-76A,Helicopters
+1550,Sikorsky CH-53,Helicopters
+1551,Sikorsky CH-53A,Helicopters
+1552,Sikorsky CH-53C,Helicopters
+1553,Sikorsky CH-53D,Helicopters
+1554,Sikorsky S-25,Civilian Passenger Aircraft
+1555,Sikorsky S-38 Flying Boat,Vintage Aircraft
+1556,Sikorsky S-38B,Vintage Aircraft
+1557,Sikorsky S-42 (flying boat),Vintage Aircraft
+1558,Sikorsky S-42A Flying Boat,Vintage Aircraft
+1559,Sikorsky S-42B (flying boat),Vintage Aircraft
+1560,Sikorsky S-43,Civilian Passenger Aircraft
+1561,Sikorsky S-43B (flying boat),Vintage Aircraft
+1562,Sikorsky S-44A,Civilian Passenger Aircraft
+1563,Sikorsky S-58C helicopter,Helicopters
+1564,Sikorsky S-58ET,Helicopters
+1565,Sikorsky S-58T,Helicopters
+1566,Sikorsky S-61L,Helicopters
+1567,Sikorsky S-61L helicopter,Helicopters
+1568,Sikorsky S-61N,Helicopters
+1569,Sikorsky S-62A,Helicopters
+1570,Sikorsky S-70,Helicopters
+1571,Sikorsky S-70A-28,Helicopters
+1572,Sikorsky S-76,Helicopters
+1574,Sikorsky S-76B helicopter,Helicopters
+1575,Sikorsky S-76C,Helicopters
+1576,Sikorsky S-92A,Helicopters
+1577,Sikorsky UH-60 / Sikorsky UH-60,Helicopters
+1578,Sikorsky UH-60 Black Hawk,Helicopters
+1579,Sikorsky UH-60A / Sikorsky UH-60A,Helicopters
+1580,Sikorsky UH-60L Black Hawk,Helicopters
+1581,Socata TB1-10 Tobago,Civilian Passenger Aircraft
+1582,Soloy 12EJ3,General Aviation and Private Aircraft
+1583,Spad 33,Civilian Passenger Aircraft
+1584,Spartan Cruiser,Civilian Passenger Aircraft
+1585,Stearman 4,General Aviation and Private Aircraft
+1586,Stearman C-38,General Aviation and Private Aircraft
+1587,Stearman C-3MB,General Aviation and Private Aircraft
+1588,Stearman M-2 Speedmail,Civilian Passenger Aircraft
+1589,Stinson,Civilian Passenger Aircraft
+1590,Stinson SM-6000B,Civilian Passenger Aircraft
+1591,Stinson AT-19,Military Transport Aircraft
+1592,Stinson Model A,Civilian Passenger Aircraft
+1593,Stinson Reliant SR-9,Civilian Passenger Aircraft
+1594,Stinson SM-2A,Civilian Passenger Aircraft
+1596,Stinson SR-7 Reliant,Civilian Passenger Aircraft
+1597,Sud Aviation Caravelle 1,Civilian Passenger Aircraft
+1598,Sud Aviation Caravelle 10R,Civilian Passenger Aircraft
+1599,Sud Aviation SE-210 Caravelle,Civilian Passenger Aircraft
+1600,Sud Aviation SE-210 Caravelle 10R,Civilian Passenger Aircraft
+1601,Sud Aviation SE-210 Caravelle 6N,Civilian Passenger Aircraft
+1602,Sud Aviation SE-210 Caravelle III,Civilian Passenger Aircraft
+1603,Sud Aviation SE-210 Caravelle VIN,Civilian Passenger Aircraft
+1604,Sud Aviation SE-210 Caravelle VIR,Civilian Passenger Aircraft
+1605,Sukhoi Su-27,Military Fighter Aircraft
+1606,Sukhoi Superjet 100-95,Civilian Passenger Aircraft
+1607,Sukhoi Superjet-100-95,Civilian Passenger Aircraft
+1608,Super Zeppelin (airship),Airships
+1609,Supermarine Stranraer (flying boat),Vintage Aircraft
+1610,Swallow,Experimental or Specialized Aircraft
+1611,Swearingen SA-226AT Merlin IV,Civilian Passenger Aircraft
+1612,Swearingen SA-226TC Metro II,Civilian Passenger Aircraft
+1613,Swearingen SA-227AC Metro III,Civilian Passenger Aircraft
+1614,Swearingen SA-227AT Merlin IVC,Civilian Passenger Aircraft
+1615,Swearingen SA-227BC Metro III,Civilian Passenger Aircraft
+1616,Swearingen SA-227CC Metro II,Civilian Passenger Aircraft
+1617,Swearingen SA.227AC Metro III,Civilian Passenger Aircraft
+1618,Tempest,Unknown
+1619,Transall C-160,Military Transport Aircraft
+1620,Transall C-160D,Military Transport Aircraft
+1621,Transall C-160NG,Military Transport Aircraft
+1622,Transportes Aéreos Orientales,Civilian Passenger Aircraft
+1623,Travel Air 4000,Vintage Aircraft
+1624,Travel Air 6000,Vintage Aircraft
+1625,Travel Air A6000A,Vintage Aircraft
+1626,Travel Air B6000,Vintage Aircraft
+1627,Tupolev ANT-20,Experimental or Specialized Aircraft
+1628,Tupolev ANT-6,Experimental or Specialized Aircraft
+1629,Tupolev ANT-9,Experimental or Specialized Aircraft
+1630,Tupolev TU-104A,Civilian Passenger Aircraft
+1631,Tupolev TU-104B,Civilian Passenger Aircraft
+1632,Tupolev TU-114,Civilian Passenger Aircraft
+1633,Tupolev TU-114B,Civilian Passenger Aircraft
+1634,Tupolev TU-124,Civilian Passenger Aircraft
+1635,Tupolev TU-134,Civilian Passenger Aircraft
+1636,Tupolev TU-134A,Civilian Passenger Aircraft
+1637,Tupolev TU-134B-3,Civilian Passenger Aircraft
+1638,Tupolev TU-142M3,Military Reconnaissance Aircraft
+1639,Tupolev TU-144,Civilian Passenger Aircraft
+1640,Tupolev TU-154,Civilian Passenger Aircraft
+1641,Tupolev TU-154A,Civilian Passenger Aircraft
+1642,Tupolev TU-154B,Civilian Passenger Aircraft
+1643,Tupolev TU-154M,Civilian Passenger Aircraft
+1644,Tupolev TU-204-100V,Civilian Passenger Aircraft
+1645,Twin Apache,General Aviation and Private Aircraft
+1646,UC-64A Noorduyn Norseman,General Aviation and Private Aircraft
+1647,UH-60 Black Hawk,Military Helicopter
+1648,Unknown,Unknown
+1649,Urocopter AS350 B2,Helicopters
+1650,V6 (airship),Airships
+1651,VC-Viking,Vintage Aircraft
+1652,VEB 14P,Civilian Passenger Aircraft
+1653,Vickers 604 Viking 1B,Civilian Passenger Aircraft
+1654,Vickers 610 Viking 1B,Civilian Passenger Aircraft
+1655,Vickers 614 Viking 1B,Civilian Passenger Aircraft
+1656,Vickers 615 Viking 1B,Civilian Passenger Aircraft
+1657,Vickers 616 Viking 1B,Civilian Passenger Aircraft
+1658,Vickers 620 Viking 1B,Civilian Passenger Aircraft
+1659,Vickers 621 Viking 1B,Civilian Passenger Aircraft
+1660,Vickers 628 Viking 1B,Civilian Passenger Aircraft
+1661,Vickers 634 Viking 1B,Civilian Passenger Aircraft
+1662,Vickers 639 Viking 1B,Civilian Passenger Aircraft
+1663,Vickers 708 Viscount,Civilian Passenger Aircraft
+1664,Vickers 720 Viscount,Civilian Passenger Aircraft
+1665,Vickers 74 Vulcan,Civilian Passenger Aircraft
+1666,Vickers 952F Vanguard,Civilian Passenger Aircraft
+1667,Vickers Valetta,Civilian Passenger Aircraft
+1668,Vickers Valetta MK-1,Civilian Passenger Aircraft
+1669,Vickers Valetta T-3,Civilian Passenger Aircraft
+1670,Vickers Vanguard 951,Civilian Passenger Aircraft
+1671,Vickers Vanguard 952,Civilian Passenger Aircraft
+1672,Vickers Viking 1B,Civilian Passenger Aircraft
+1673,Vickers Viking 610-1B,Civilian Passenger Aircraft
+1674,Vickers Viscount,Civilian Passenger Aircraft
+1675,Vickers Viscount 701,Civilian Passenger Aircraft
+1676,Vickers Viscount 701C,Civilian Passenger Aircraft
+1677,Vickers Viscount 708,Civilian Passenger Aircraft
+1678,Vickers Viscount 710C,Civilian Passenger Aircraft
+1679,Vickers Viscount 720,Civilian Passenger Aircraft
+1680,Vickers Viscount 724,Civilian Passenger Aircraft
+1681,Vickers Viscount 739A,Civilian Passenger Aircraft
+1682,Vickers Viscount 739B,Civilian Passenger Aircraft
+1683,Vickers Viscount 745D,Civilian Passenger Aircraft
+1684,Vickers Viscount 748D,Civilian Passenger Aircraft
+1685,Vickers Viscount 749,Civilian Passenger Aircraft
+1686,Vickers Viscount 754D,Civilian Passenger Aircraft
+1687,Vickers Viscount 755D,Civilian Passenger Aircraft
+1688,Vickers Viscount 757,Civilian Passenger Aircraft
+1689,Vickers Viscount 759D,Civilian Passenger Aircraft
+1690,Vickers Viscount 763,Civilian Passenger Aircraft
+1691,Vickers Viscount 764D,Civilian Passenger Aircraft
+1692,Vickers Viscount 768D,Civilian Passenger Aircraft
+1693,Vickers Viscount 781D,Civilian Passenger Aircraft
+1694,Vickers Viscount 782D,Civilian Passenger Aircraft
+1695,Vickers Viscount 785D,Civilian Passenger Aircraft
+1696,Vickers Viscount 794D,Civilian Passenger Aircraft
+1697,Vickers Viscount 798D,Civilian Passenger Aircraft
+1698,Vickers Viscount 802,Civilian Passenger Aircraft
+1699,Vickers Viscount 803,Civilian Passenger Aircraft
+1700,Vickers Viscount 804,Civilian Passenger Aircraft
+1701,Vickers Viscount 812,Civilian Passenger Aircraft
+1702,Vickers Viscount 813,Civilian Passenger Aircraft
+1703,Vickers Viscount 815,Civilian Passenger Aircraft
+1704,Vickers Viscount 816,Civilian Passenger Aircraft
+1705,Vickers Viscount 818,Civilian Passenger Aircraft
+1706,Vickers Viscount 827,Civilian Passenger Aircraft
+1707,Vickers Viscount 828,Civilian Passenger Aircraft
+1708,Vickers Viscount 832,Civilian Passenger Aircraft
+1709,Vickers Viscount 837,Civilian Passenger Aircraft
+1710,Vickers Viscount 838,Civilian Passenger Aircraft
+1711,Vickers Wellington bomber,Military Bomber
+1712,Volpar C45G,Civilian Passenger Aircraft
+1713,Vultee V-1,Civilian Passenger Aircraft
+1714,"Waco, model YLC",Civilian Passenger Aircraft
+1715,Wapiti,Military Bomber
+1716,Westland Sea King HC-4 (helicopter),Military Helicopter
+1717,Wibault 280,Civilian Passenger Aircraft
+1718,Wibault 282T,Civilian Passenger Aircraft
+1719,Wibault 283-T12,Civilian Passenger Aircraft
+1720,Wright Byplane,Civilian Passenger Aircraft
+1721,Wright Flyer III,Civilian Passenger Aircraft
+1722,Xian MA-60,Civilian Passenger Aircraft
+1723,Xian Yunshuji Y-7-100C,Civilian Passenger Aircraft
+1724,Yakovlev 40,Civilian Passenger Aircraft
+1725,Yakovlev 40D,Civilian Passenger Aircraft
+1726,Yakovlev 42D,Civilian Passenger Aircraft
+1727,Yakovlev YAK-40,Civilian Passenger Aircraft
+1728,Yakovlev YAK-42,Civilian Passenger Aircraft
+1729,Yakovlev YAK-42D,Civilian Passenger Aircraft
+1730,Yunshuji Y-12,Civilian Passenger Aircraft
+1731,Yunshuji Y-8D,Civilian Passenger Aircraft
+1732,Zeppelin Dixmunde (airship),Airship
+1733,Zeppelin L-1 (airship),Airship
+1734,Zeppelin L-10 (airship),Airship
+1735,Zeppelin L-2 (airship),Airship
+1736,Zeppelin L-22 (airship),Airship
+1737,Zeppelin L-23 (airship),Airship
+1738,Zeppelin L-31 (airship),Airship
+1739,Zeppelin L-32 (airship),Airship
+1740,Zeppelin L-34 (airship),Airship
+1741,Zeppelin L-43 (airship),Airship
+1742,Zeppelin L-44 (airship),Airship
+1743,Zeppelin L-48 (air ship),Airship
+1744,Zeppelin L-53 (airship),Airship
+1745,Zeppelin L-59 (airship),Airship
+1746,Zeppelin L-70 (airship),Airship
+1747,Zeppelin L-8 (airship),Airship
+1748,Zeppelin LZ-129,Airship
+1749,de Havilland C-7A,Civilian Passenger Aircraft
+1750,de Havilland CV-2B,Civilian Passenger Aircraft
+1751,de Havilland Canada U-1A Otter,Civilian Passenger Aircraft
+1752,de Havilland Comet 4,Civilian Passenger Aircraft
+1753,de Havilland Comet 4B,Civilian Passenger Aircraft
+1754,de Havilland Comet 4C,Civilian Passenger Aircraft
+1755,de Havilland D-84,Civilian Passenger Aircraft
+1756,de Havilland DCH-4T,Civilian Passenger Aircraft
+1757,de Havilland DH-104,Civilian Passenger Aircraft
+1758,de Havilland DH-104 Dove,Civilian Passenger Aircraft
+1759,de Havilland DH-106,Civilian Passenger Aircraft
+1760,de Havilland DH-110,Civilian Passenger Aircraft
+1761,de Havilland DH-114,Civilian Passenger Aircraft
+1762,de Havilland DH-18,Civilian Passenger Aircraft
+1763,de Havilland DH-34,Civilian Passenger Aircraft
+1764,de Havilland DH-34B,Civilian Passenger Aircraft
+1765,de Havilland DH-3T,Civilian Passenger Aircraft
+1766,de Havilland DH-4,Civilian Passenger Aircraft
+1767,de Havilland DH-50A,Civilian Passenger Aircraft
+1768,de Havilland DH-50J,Civilian Passenger Aircraft
+1769,de Havilland DH-60,Civilian Passenger Aircraft
+1770,de Havilland DH-61,Civilian Passenger Aircraft
+1771,de Havilland DH-66,Civilian Passenger Aircraft
+1772,de Havilland DH-80,Civilian Passenger Aircraft
+1773,de Havilland DH-84,Civilian Passenger Aircraft
+1774,de Havilland DH-85,Civilian Passenger Aircraft
+1775,de Havilland DH-86,Civilian Passenger Aircraft
+1776,de Havilland DH-86A,Civilian Passenger Aircraft
+1777,de Havilland DH-89,Civilian Passenger Aircraft
+1778,de Havilland DH-89A,Civilian Passenger Aircraft
+1779,de Havilland DH-9,Civilian Passenger Aircraft
+1780,de Havilland DH-9C,Civilian Passenger Aircraft
+1781,de Havilland DHA-3,Civilian Passenger Aircraft
+1782,de Havilland DHC-2,Civilian Passenger Aircraft
+1783,de Havilland DHC-3,Civilian Passenger Aircraft
+1784,de Havilland DHC-3T,Civilian Passenger Aircraft
+1785,de Havilland DHC-4,Civilian Passenger Aircraft
+1786,de Havilland DHC-4A,Civilian Passenger Aircraft
+1787,de Havilland DHC-4T,Civilian Passenger Aircraft
+1788,de Havilland DHC-5,Civilian Passenger Aircraft
+1789,de Havilland DHC-5D,Civilian Passenger Aircraft
+1790,de Havilland DHC-6,Civilian Passenger Aircraft
+1791,de Havilland DHC-7,Civilian Passenger Aircraft
+1792,de Havilland DHC-8,Civilian Passenger Aircraft
+1793,de Havilland Dash-2,Civilian Passenger Aircraft
+1794,de Havilland Dove 1,Civilian Passenger Aircraft
+1795,de Havilland Dragon 1,Civilian Passenger Aircraft
+1796,de Havilland 89A Dragon Rapide,Civilian Passenger Aircraft
+1797,de Havilland 89 Dragon Rapide,Civilian Passenger Aircraft
+1798,de Havilland Canada Twin Otter 200,Civilian Passenger Aircraft
+1799,deHavilland DH-86,Civilian Passenger Aircraft
