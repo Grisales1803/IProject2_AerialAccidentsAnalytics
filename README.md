@@ -97,7 +97,7 @@ For a glimpse of this powerful tool, please refer to the accompanying dashboard 
   <img src="ImagesREADME/Dashboard.jpg" alt="EDA1" width="800" height="450">
 </p>
 
-## *7. Author:*
+## *7. Author*
 
 - Juan Camilo Grisales.
 - Mail: [grisales1803@gmail.com](grisales1803@gmail.com)
