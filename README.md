@@ -398,7 +398,7 @@ In conclusion, our data analytics project offers valuable insights into aviation
 **2. Tableau** (Business Intelligence Tool)
 
 
-## *8. Author*
+## *10. Author*
 
 - Juan Camilo Grisales.
 - Mail: [grisales1803@gmail.com](grisales1803@gmail.com)
